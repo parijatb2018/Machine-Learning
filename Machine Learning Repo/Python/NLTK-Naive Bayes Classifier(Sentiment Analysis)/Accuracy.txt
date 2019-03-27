@@ -1,0 +1,57 @@
+Yelp data:
+
+<<<All against max_feature>>>
+max_feature=1600
+NB Accuracy: 73.0 %()
+RF Accuracy: 72.0 %(n_tree=10)
+DT Accuracy: 71.0 %(minsplit=2)
+
+max_feature=1500
+NB Accuracy: 73.0 %()
+RF Accuracy: 72.0 %(n_tree=10)
+DT Accuracy: 71.0 %(minsplit=2)
+
+max_feature=1200
+NB Accuracy: 73.0 %()
+RF Accuracy: 72.5 %(n_tree=10)
+DT Accuracy: 72.5 %(minsplit=2)
+
+
+max_feature=1200
+NB Accuracy: 73.0 %()
+RF Accuracy: 73.0 %(n_tree=10)
+DT Accuracy: 65.5 %(minsplit=2)
+
+
+max_feature=1000
+NB Accuracy: 73.0 %()
+RF Accuracy: 73.0 %(n_tree=10)
+DT Accuracy: 65.5 %(minsplit=2)
+
+max_feature=500
+NB Accuracy: 73.5 %()
+RF Accuracy: 70.0 %(n_tree=10)
+DT Accuracy: 69 %(minsplit=2)
+
+<<<RF>>>
+max_feature=1500
+n_tree=50
+RF Accuracy: 71.5 %
+
+max_feature=1500
+n_tree=100
+RF Accuracy: 70.5 %
+
+<<<DT>>>
+max_feature=1500
+minsplit=3
+DT Accuracy: 72 %
+
+max_feature=1500
+minsplit=5
+DT Accuracy: 71 %
+
+max_feature=1500
+minsplit=10
+DT Accuracy: 71.5 %
+

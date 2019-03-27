@@ -1,0 +1,2945 @@
+{
+    "JonasBrothers": [
+        [
+            "Thisisinsider.com",
+            "The Jonas Brothers are officially back together and releasing their first song in 6 years",
+            "https://www.thisisinsider.com/the-jonas-brothers-officially-back-together-new-song-annoucement-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "The Jonas Brothers are reportedly reuniting and going on tour",
+            "https://www.thisisinsider.com/the-jonas-brothers-reportedly-reuniting-2019-2"
+        ],
+        [
+            "Livejournal.com",
+            "The Jonas Brothers are back!",
+            "https://ohnotheydidnt.livejournal.com/114068584.html"
+        ],
+        [
+            "Jenesaispop.com",
+            "\u00bfPuede \u2018Sucker\u2019 de Jonas Brothers recapturar ma\u00f1ana al nuevo p\u00fablico logrado por Nick Jonas?",
+            "https://jenesaispop.com/2019/02/28/356922/jonas-brothers-revolucionan-la-red-al-anunciar-su-regreso-sucker-para-esta-madrugada/"
+        ],
+        [
+            "Independent.ie",
+            "Jonas Brothers announce comeback with Carpool Karaoke appearance",
+            "https://www.independent.ie/entertainment/music/jonas-brothers-announce-comeback-with-carpool-karaoke-appearance-37866065.html"
+        ],
+        [
+            "Newsweek",
+            "Jonas Brothers Announce Reunion, New Song In James Corden's Carpool Karaoke Teaser",
+            "https://www.newsweek.com/jonas-brothers-announce-reunion-new-song-james-cordens-carpool-karaoke-teaser-1347876"
+        ],
+        [
+            "News.mtv.it",
+            "I Jonas Brothers di nuovo insieme: in arrivo la canzone \u201cSucker\u201d",
+            "http://news.mtv.it/musica/jonas-brothers-annunciano-la-nuova-canzone-sucker/"
+        ],
+        [
+            "Formulatv.com",
+            "Los Jonas Brothers estar\u00edan planeando su regreso a los escenarios",
+            "https://www.formulatv.com/noticias/jonas-brothers-regresan-escenarios-enloquecen-seguidores-89522/"
+        ],
+        [
+            "Businessinsider.com.au",
+            "The Jonas Brothers are officially back together and releasing their first song in 6 years",
+            "https://www.businessinsider.com.au/the-jonas-brothers-officially-back-together-new-song-annoucement-2019-2"
+        ],
+        [
+            "Ndtv.com",
+            "The Jonas Brothers Are Back With New Single 'Sucker'",
+            "https://www.ndtv.com/entertainment/the-jonas-brothers-are-back-with-new-single-sucker-2000880"
+        ],
+        [
+            "Elitedaily.com",
+            "Priyanka Chopra's Reaction To The Jonas Brother's New Single Will Make You Say \"Same\"",
+            "https://www.elitedaily.com/p/priyanka-chopras-reaction-to-the-jonas-brothers-new-single-will-make-you-say-same-16413413"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Jonas Brothers anuncia su regreso con nueva canci\u00f3n",
+            "https://www.eluniversal.com.mx/espectaculos/musica/jonas-brothers-anuncia-su-regreso-con-nueva-cancion"
+        ],
+        [
+            "20minutos.es",
+            "Los Jonas Brothers encienden las redes sociales con un aperitivo de su regreso",
+            "https://www.20minutos.es/noticia/3575989/0/jonas-brothers-regreso-nueva-cancion/"
+        ],
+        [
+            "Usmagazine.com",
+            "Jonas Brothers Officially Announce Reunion Following 2013 Split",
+            "https://www.usmagazine.com/entertainment/news/jonas-brothers-officially-announce-reunion-following-2013-split/#article"
+        ],
+        [
+            "News4jax.com",
+            "The Jonas Brothers are dropping new music on Friday, reports say",
+            "https://www.news4jax.com/news/the-jonas-brothers-are-dropping-new-music-on-friday-reports-say"
+        ]
+    ],
+    "Jason Witten": [
+        [
+            "USA Today",
+            "Jason Witten returning to play for Cowboys after year as 'Monday Night Football' analyst",
+            "https://www.usatoday.com/story/sports/nfl/cowboys/2019/02/28/jason-witten-dallas-cowboys-return-monday-night-football/3016819002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "The Guardian (AU)",
+            "Jason Witten unretires and signs with Cowboys after disastrous ESPN spell",
+            "https://www.theguardian.com/sport/2019/feb/28/jason-witten-unretires-dallas-cowboys-espn"
+        ],
+        [
+            "Deadspin.com",
+            "Jason Witten Broke The Damn Pro Bowl Trophy",
+            "https://deadspin.com/jason-witten-broke-the-damn-pro-bowl-trophy-1832104032"
+        ],
+        [
+            "Si.com",
+            "Jason Witten Ending Retirement, Returning to Cowboys for 16th Season",
+            "https://www.si.com/nfl/2019/02/28/jason-witten-ending-retirement-returning-dallas-cowboys"
+        ],
+        [
+            "247sports.com",
+            "Jason Witten ends retirement, will return to Cowboys in 2019 - 247Sports",
+            "https://247sports.com/nfl/dallas-cowboys/Article/Jason-Witten-ends-retirement-will-return-to-Cowboys-in-2019-129579407/"
+        ],
+        [
+            "Forbes.com",
+            "Tight End Jason Witten Returns To Cowboys To Play Tight End",
+            "https://www.forbes.com/sites/barryhorn/2019/02/28/tight-end-jason-witten-returns-to-cowboys-to-play-tight-end/"
+        ],
+        [
+            "Dallascowboys.com",
+            "Witten Ends Retirement; Returning to Cowboys - DallasCowboys.com",
+            "https://www.dallascowboys.com/news/witten-ends-retirement-returning-to-cowboys"
+        ],
+        [
+            "Fox Sports",
+            "Jason Witten rejoining Cowboys after year as broadcaster",
+            "https://www.foxsports.com/nfl/story/jason-witten-rejoining-cowboys-after-year-as-broadcaster-022819"
+        ],
+        [
+            "Philly.com",
+            "Jason Witten didn't catch any breaks during Pro Bowl on ESPN - Philly.com",
+            "http://www.philly.com/eagles/jason-witten-pro-bowl-espn-broke-trophy-nfl-referees-saints-20190128.html"
+        ],
+        [
+            "Si.com",
+            "Traina Thoughts: Steve Carell Reveals Secrets From the 'Basketball' Episode of 'The Office'",
+            "https://www.si.com/extra-mustard/2019/01/28/steve-carell-office-basketball-stress-relief-casino-night-super-bowl-commercial-pepsi"
+        ],
+        [
+            "Nbcsports.com",
+            "Jason Witten quits ESPN, returns to Cowboys",
+            "https://profootballtalk.nbcsports.com/2019/02/28/jason-witten-quits-espn-returns-to-cowboys/"
+        ],
+        [
+            "Nbcsports.com",
+            "Jason Witten: Midseason return to Cowboys wasn\u2019t a real possibility",
+            "https://profootballtalk.nbcsports.com/2019/02/13/jason-witten-midseason-return-to-cowboys-wasnt-a-real-possibility/"
+        ],
+        [
+            "Yahoo.com",
+            "Shocking return: Witten re-signs with Cowboys",
+            "https://sports.yahoo.com/jason-witten-abruptly-ends-retirement-re-signs-cowboys-180334123.html"
+        ],
+        [
+            "Fox News",
+            "Jason Witten breaks Pro Bowl trophy during postgame ceremony",
+            "https://www.foxnews.com/sports/pro-bowl-trophy-appears-to-break-during-postgame-ceremony.print?src=rss"
+        ],
+        [
+            "Seattletimes.com",
+            "Jason Witten rejoining Cowboys after year as broadcaster",
+            "https://www.seattletimes.com/sports/nfl/jason-witten-rejoining-cowboys-after-year-as-broadcaster/"
+        ],
+        [
+            "Fox Sports",
+            "Top Tweets: Eric Thames is READY for spring training",
+            "https://www.foxsports.com/wisconsin/gallery/top-tweets-milwaukee-brewers-eric-thames-spring-training-021519"
+        ],
+        [
+            "Golfdigest.com",
+            "Jason Witten caps no good, very bad year by wrecking the Pro Bowl trophy",
+            "https://www.golfdigest.com/story/jason-witten-caps-no-good-very-bad-year-by-wrecking-the-pro-bowl-trophy"
+        ],
+        [
+            "Forbes.com",
+            "How The Dallas Cowboys Are Approaching Free Agency And The Rest Of The NFL Off-Season",
+            "https://www.forbes.com/sites/barryhorn/2019/02/04/dallas-cowboys-free-agency-nfl-offseason/"
+        ],
+        [
+            "Sbnation.com",
+            "Jason Witten shockingly unretires to return to the Cowboys. Great news for \u2018Monday Night Football\u2019!",
+            "https://www.sbnation.com/2019/2/28/18244909/jason-witten-return-cowboys-unretirement-monday-night-football-slightly-less-terrible"
+        ],
+        [
+            "Sbnation.com",
+            "Pro Bowl announcer Jason Witten is still reminding us he\u2019s not a Pro Bowl announcer",
+            "https://www.sbnation.com/nfl/2019/1/27/18199685/pro-bowl-announcer-jason-witten-espn-monday-night-football-patrick-mahomes"
+        ]
+    ],
+    "ForTheThrone": [
+        [
+            "Mashable",
+            "'Game of Thrones' unveils Top 20 Iron Throne contenders with chilling Season 8 character posters",
+            "https://mashable.com/article/game-of-thrones-season-8-character-posters-emojis/"
+        ],
+        [
+            "Mashable",
+            "The '2 Dope Queens' HBO special serves all the looks and all the laughs",
+            "https://mashable.com/article/2-dope-queens-season-2/"
+        ],
+        [
+            "Fastcompany.com",
+            "Why Bud Light\u2019s Knight was killed by HBO\u2019s Game of Thrones in Super Bowl ad",
+            "https://www.fastcompany.com/90301515/why-bud-lights-knight-was-killed-by-hbos-game-of-thrones-in-super-bowl-ad?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Bleacher Report",
+            "Super Bowl Commercials 2019: Postgame Twitter Reacts to Top Ads, Movie Trailers",
+            "https://bleacherreport.com/articles/2819140-super-bowl-commercials-2019-postgame-twitter-reacts-to-top-ads-movie-trailers"
+        ],
+        [
+            "Geek.com",
+            "\u2018Game of Thrones\u2019 Oreos Are Coming for Your Sugar Fix",
+            "https://www.geek.com/culture/game-of-thrones-oreos-are-coming-for-your-sugar-fix-1776271/"
+        ],
+        [
+            "Geeksaresexy.net",
+            "The Game of Thrones Bud Light Super Bowl LIII Ad Ends With a Blast #ForTheThrone",
+            "https://www.geeksaresexy.net/2019/02/04/the-game-of-thrones-bud-light-super-bowl-liii-ad-ends-with-a-blast-forthethrone/"
+        ],
+        [
+            "9gag.com",
+            "Guns came to Westeros",
+            "https://9gag.com/gag/aR1BqAq/guns-came-to-westeros"
+        ],
+        [
+            "Merca20.com",
+            "As\u00ed es el spot de Game of Thrones con el que Bud Light gan\u00f3",
+            "https://www.merca20.com/asi-es-el-spot-de-game-of-thrones-con-el-que-bud-light-gano/"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Geek.com",
+            "\u2018Game of Thrones\u2019 Showrunners Confirm Ser Pounce Is Dead",
+            "https://www.geek.com/television/game-of-thrones-showrunners-confirm-ser-pounce-is-dead-1774240/"
+        ],
+        [
+            "Fastcompany.com",
+            "Why Bud Light\u2019s Knight was killed by HBO\u2019s Game of Thrones in Super Bowl ad",
+            "https://www.fastcompany.com/90301515/why-bud-lights-knight-was-killed-by-hbos-game-of-thrones-in-super-bowl-ad?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcocreate%2Ffeed+%28Co.Create%29"
+        ],
+        [
+            "Fastcompany.com",
+            "Why Bud Light\u2019s Knight was killed by HBO\u2019s Game of Thrones in Super Bowl ad",
+            "https://www.fastcompany.com/90301515/why-bud-lights-knight-was-killed-by-hbos-game-of-thrones-in-super-bowl-ad?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcoexist%2Ffeed+%28Co.Exist%29"
+        ],
+        [
+            "Refinery29.com",
+            "Forget Winter \u2014 An Official Game Of Thrones Makeup Collection Is Coming",
+            "https://www.refinery29.com/en-us/2019/02/225109/game-of-thrones-makeup-urban-decay-collection"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Oreos Are Coming",
+            "https://hypebeast.com/2019/2/game-of-thrones-oreos"
+        ],
+        [
+            "Nerdist.com",
+            "This GAME OF THRONES Bud Light Commercial Is a Real Tease",
+            "https://nerdist.com/article/game-of-thrones-bud-light-commercial/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ]
+    ],
+    "JonSnow": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Papelpop.com",
+            "O Trono de Ferro est\u00e1 disputad\u00edssimo em cartazes da \u00faltima temporada de \u201cGame of Thrones\u201d",
+            "https://www.papelpop.com/2019/02/o-trono-de-ferro-esta-disputadissimo-em-cartazes-da-ultima-temporada-de-game-of-thrones/"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "20minutos.es",
+            "Edurne, \u00bfuna madre de dragones en 'Juego de Tronos'?: su foto viral con uno de los protagonistas",
+            "https://www.20minutos.es/noticia/3572504/0/edurne-juego-tronos-fotografia-viral-protagonista-jon-nieve-snow-kit-harington/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Computerhoy.com",
+            "HBO publica nuevos carteles de la temporada 8 de Juego de Tronos",
+            "https://computerhoy.com/noticias/entretenimiento/hbo-publica-nuevos-carteles-temporada-8-juego-tronos-381795"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "Tvshow.com.uy",
+            "\"Game of Thrones\" estren\u00f3 posters y emojis de sus personajes principales, y as\u00ed se ven",
+            "http://www.tvshow.com.uy/series/game-of-thrones-estreno-posters-emojis-personajes-principales-asi-ven.html"
+        ],
+        [
+            "Newsmth.net",
+            "Re: \u9668\u77f3\u4e3a\u4ec0\u4e48\u603b\u843d\u5728\u5751\u91cc\uff1f",
+            "http://www.newsmth.net/bbscon.php?bid=63&id=3808145"
+        ]
+    ],
+    "\u0627\u0644\u0634\u0628\u0627\u0628_\u0627\u0644\u0646\u0635\u0631": [],
+    "DaenerysTargaryen": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "Tvshow.com.uy",
+            "\"Game of Thrones\" estren\u00f3 posters y emojis de sus personajes principales, y as\u00ed se ven",
+            "http://www.tvshow.com.uy/series/game-of-thrones-estreno-posters-emojis-personajes-principales-asi-ven.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Lanzan p\u00f3sters de la temporada final de \"Game of Thrones\"",
+            "https://www.eluniversal.com.mx/espectaculos/television/lanzan-posters-de-la-temporada-final-de-game-thrones"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "The Jonas Brothers": [
+        [
+            "Thisisinsider.com",
+            "The Jonas Brothers are reportedly reuniting and going on tour",
+            "https://www.thisisinsider.com/the-jonas-brothers-reportedly-reuniting-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "The Jonas Brothers are officially back together and releasing their first song in 6 years",
+            "https://www.thisisinsider.com/the-jonas-brothers-officially-back-together-new-song-annoucement-2019-2"
+        ],
+        [
+            "The Huffington Post",
+            "Priyanka Chopra Explains How Nick Jonas Slid Into Her DMs",
+            "https://www.huffingtonpost.com/entry/priyanka-chopra-nick-jonas-ellen-degeneres_us_5c51ef57e4b093663f5aac50"
+        ],
+        [
+            "Hindustantimes.com",
+            "As Priyanka Chopra gets a wax figure, husband Nick Jonas shares his own. Fans think he is trolling... - Hindustan Times",
+            "https://www.hindustantimes.com/bollywood/as-priyanka-chopra-gets-a-wax-figure-husband-nick-jonas-shares-his-own-fans-think-he-is-trolling-her/story-6BnyUoamb3x7RHPAZHiDpK.html"
+        ],
+        [
+            "Sportsnet.ca",
+            "Shorthanded Raptors hang on for memorable win on wild deadline day - Sportsnet.ca",
+            "https://www.sportsnet.ca/basketball/nba/shorthanded-raptors-hang-memorable-win-wild-deadline-day/"
+        ],
+        [
+            "The Times of India",
+            "Jonas Brothers are reuniting after six long years",
+            "https://timesofindia.indiatimes.com/entertainment/english/music/news/jonas-brothers-are-reuniting-after-six-long-years-are-you-excited/articleshow/68073467.cms"
+        ],
+        [
+            "Gamespot.com",
+            "Nick Jonas Confirms He's Back In Jumanji Sequel",
+            "https://www.gamespot.com/articles/nick-jonas-confirms-hes-back-in-jumanji-sequel/1100-6464871/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Koffee With Karan: Kareena Kapoor has never met Amrita Singh, Priyanka Chopra said she won\u2019t stop flirting... - Hindustan Times",
+            "https://www.hindustantimes.com/tv/koffee-with-karan-kareena-kapoor-has-never-met-amrita-singh-priyanka-chopra-said-she-won-t-stop-flirting-after-wedding-with-nick-jonas/story-O1umAlx0D58HC8KE6O51OP.html"
+        ],
+        [
+            "Vulture.com",
+            "6 Years Later, the Jonas Brothers Are \u2026 Back?",
+            "http://www.vulture.com/2019/02/jonas-brothers-new-music-carpool-karaoke.html"
+        ],
+        [
+            "Forbes.com",
+            "The Jonas Brothers Reunite And Announce New Single \"Sucker\"",
+            "https://www.forbes.com/sites/monicamercuri/2019/02/28/the-jonas-brothers-reunite-and-announce-new-single-sucker/"
+        ],
+        [
+            "Estadao.com.br",
+            "Jonas Brothers planejam retorno seis anos ap\u00f3s separa\u00e7\u00e3o, diz site",
+            "https://emais.estadao.com.br/noticias/gente,jonas-brothers-planejam-retorno-seis-anos-apos-separacao-diz-site,70002729266"
+        ],
+        [
+            "Eonline.com",
+            "Jonas Brothers Reunite for First Song 5 Years After Split: Watch Them Perform \"Sucker\"",
+            "https://www.eonline.com/news/1019450/jonas-brothers-reunite-for-first-song-5-years-after-split-watch-them-perform-sucker"
+        ],
+        [
+            "People.com",
+            "The Jonas Brothers Reunite with New Single 'Sucker' \u2014 and Take Over the Late Late Show",
+            "https://people.com/music/jonas-brothers-reunite-new-single-sucker/"
+        ],
+        [
+            "People.com",
+            "The Jonas Brothers Are Reuniting \u2014 and They\u2019ll Announce the Big News Soon: Source",
+            "https://people.com/music/jonas-brothers-reuniting-announcing-soon/"
+        ],
+        [
+            "Estadao.com.br",
+            "Jonas Brothers anuncia retorno em \u2018Carpool Karaoke\u2019 de James Corden",
+            "https://emais.estadao.com.br/noticias/gente,jonas-brothers-anuncia-retorno-em-carpool-karaoke-de-james-corden,70002739236"
+        ],
+        [
+            "People.com",
+            "'S.O.S.'! The Jonas Brothers Are Back and Their Reunion Style Is Better Than Ever",
+            "https://people.com/style/jonas-brothers-reunion-sucker-cover-style/"
+        ],
+        [
+            "Thefader.com",
+            "The Jonas Brothers are reportedly reuniting as JONAS",
+            "https://www.thefader.com/2019/02/18/jonas-brothers-reunion-2019"
+        ],
+        [
+            "Eonline.com",
+            "Priyanka Chopra Wasn't Exactly \"Burnin' Up \" Over the Jonas Brothers Before Meeting Nick",
+            "https://www.eonline.com/news/1009970/priyanka-chopra-wasn-t-exactly-burnin-up-over-the-jonas-brothers-before-meeting-nick"
+        ],
+        [
+            "People.com",
+            "Priyanka Chopra Jonas on the \u2018Old School\u2019 Reason She Is Taking Nick Jonas' Last Name",
+            "https://people.com/tv/priyanka-chopra-taking-nick-jonas-last-name/"
+        ],
+        [
+            "Eonline.com",
+            "All the Signs the Jonas Brothers Were Headed for a Reunion",
+            "https://www.eonline.com/news/1019499/all-the-signs-the-jonas-brothers-were-headed-for-a-reunion"
+        ]
+    ],
+    "Cowboys": [
+        [
+            "The New York Times",
+            "It\u2019s Super Bowl Week for the Rams, 1980",
+            "https://www.nytimes.com/2019/02/01/sports/rams-super-bowl-1980.html"
+        ],
+        [
+            "Espn.com",
+            "Cowboys' Gregory suspended indefinitely by NFL",
+            "http://www.espn.com/nfl/story/_/id/26086362/cowboys-gregory-suspended-indefinitely-nfl"
+        ],
+        [
+            "The New York Times",
+            "Super Bowl LIII: To Build a Champion, the Rams Took Risks. They Just Don\u2019t See It That Way.",
+            "https://www.nytimes.com/2019/02/02/sports/marcus-peters-rams.html"
+        ],
+        [
+            "USA Today",
+            "Former NFL QB and assistant coach Wade Wilson dies at age 60",
+            "https://www.usatoday.com/story/sports/nfl/2019/02/01/former-nfl-qb-and-assistant-coach-wade-wilson-dies-at-age-60/38991577/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Sootoday.com",
+            "Convoy trucking through to Ottawa - SooToday",
+            "https://www.sootoday.com/local-news/convoy-trucking-through-to-ottawa-1247115"
+        ],
+        [
+            "Business Insider",
+            "Conor McGregor and his son wore matching suits to the Super Bowl, and it was adorable",
+            "https://www.businessinsider.com/conor-mcgregor-son-super-bowl-2019-2"
+        ],
+        [
+            "The New York Times",
+            "Super Bowl LIII: How Did We Get Here? An Illustrated Guide to the N.F.L. Playoffs",
+            "https://www.nytimes.com/2019/02/01/sports/super-bowl-nfl-playoffs-game-by-game.html"
+        ],
+        [
+            "USA Today",
+            "Cowboys' Jerry Jones downplays Jason Garrett's contract situation: 'He trusts me, I trust him'",
+            "https://www.usatoday.com/story/sports/nfl/cowboys/2019/02/02/cowboys-jerry-jones-downplays-jason-garretts-contract-situation/2757296002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Jason Witten returning to play for Cowboys after year as 'Monday Night Football' analyst",
+            "https://www.usatoday.com/story/sports/nfl/cowboys/2019/02/28/jason-witten-dallas-cowboys-return-monday-night-football/3016819002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "How Dak Prescott feels about Jason Garrett not being extended",
+            "https://www.usatoday.com/videos/sports/nfl/whatimhearing/2019/02/01/how-dak-prescott-feels-jason-garrett-not-being-extended/2739828002/"
+        ],
+        [
+            "USA Today",
+            "Cowboys aren't picking up option on WR Terrance Williams",
+            "https://www.usatoday.com/story/sports/nfl/2019/02/19/cowboys-arent-picking-up-option-on-wr-terrance-williams/39082233/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "No. 23 K-State dominates Oklahoma State 85-46",
+            "https://www.usatoday.com/story/sports/ncaab/2019/02/23/no-23-k-state-dominates-oklahoma-state-85-46/39104479/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Vice News",
+            "How This Trailblazing Navajo Cowboy Made Professional Rodeo History",
+            "https://www.vice.com/en_us/article/pankpy/navajo-son-great-american-cowboy-derrick-begay"
+        ],
+        [
+            "Business Insider",
+            "The Rams and Patriots are on pace for the lowest-scoring Super Bowl in history",
+            "https://www.businessinsider.com/lowest-scoring-super-bowl-rams-patriots-2019-2"
+        ],
+        [
+            "Business Insider",
+            "Robert Kraft saved the New England Patriots with a gutsy $175 million investment and it has paid off big time",
+            "https://www.businessinsider.com/robert-kraft-new-england-patriots-2017-1"
+        ],
+        [
+            "USA Today",
+            "No. 11 Texas Tech shares Big 12 lead after 84-80 OT win",
+            "https://www.usatoday.com/story/sports/ncaab/2019/02/27/no-11-texas-tech-shares-big-12-lead-after-84-80-ot-win/39126343/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Cowboys DE Randy Gregory suspended indefinitely for violating NFL's substance abuse policy, per report",
+            "https://www.usatoday.com/story/sports/nfl/cowboys/2019/02/26/randy-gregory-dallas-cowboys-suspended-indefinitely-nfl/2994619002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Lawson, Agbaji lift No. 13 Kansas past Oklahoma State, 84-72",
+            "https://www.usatoday.com/story/sports/ncaab/2019/02/09/lawson-agbaji-lift-no-13-kansas-past-oklahoma-state-84-72/39032035/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Clyburn scores 17 to carry UNLV past Wyoming 66-56",
+            "https://www.usatoday.com/story/sports/ncaab/2019/02/20/clyburn-scores-17-to-carry-unlv-past-wyoming-66-56/39084445/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "The Guardian (AU)",
+            "Jason Witten unretires and signs with Cowboys after disastrous ESPN spell",
+            "https://www.theguardian.com/sport/2019/feb/28/jason-witten-unretires-dallas-cowboys-espn"
+        ]
+    ],
+    "Luke Perry": [
+        [
+            "Thisisinsider.com",
+            "Luke Perry, star of 'Riverdale' and 'Beverly Hills 90210,' reportedly hospitalized after a stroke",
+            "https://www.thisisinsider.com/luke-perry-riverdale-90210-hospitalized-stroke-reports-2019-2"
+        ],
+        [
+            "Time",
+            "Actor Luke Perry Has Been Hospitalized, Riverdale Publicist Reports",
+            "http://time.com/5541256/luke-perry-hospitalized/"
+        ],
+        [
+            "Goodmorningamerica.com",
+            "'Riverdale' and '90210' star Luke Perry hospitalized and under observation: Rep",
+            "https://goodmorningamerica.com/culture/story/riverdale-90210-star-luke-perry-hospitalized-observation-rep-61383639"
+        ],
+        [
+            "Huffpost.com",
+            "Fox Orders \u201990210\u2032 Reboot Featuring Most Of The Original Cast",
+            "https://www.huffpost.com/entry/90210-reboot-original-cast-fox_n_5c76ea85e4b010e7c5637b9a"
+        ],
+        [
+            "Avclub.com",
+            "Luke Perry hospitalized after suffering \"massive stroke\"",
+            "https://news.avclub.com/luke-perry-hospitalized-after-suffering-massive-stroke-1832959735"
+        ],
+        [
+            "Pitchfork.com",
+            "Kesha\u2019s Lawyers Argue Dr. Luke and Katy Perry\u2019s Denials Do Not Disprove Rape Allegations",
+            "https://pitchfork.com/news/keshas-lawyers-argue-dr-luke-and-katy-perrys-denials-do-not-disprove-rape-allegations/"
+        ],
+        [
+            "Thisisinsider.com",
+            "Lisa Sheridan, 'Halt and Catch Fire' actress, dead at 44",
+            "https://www.thisisinsider.com/lisa-sheridan-dead-at-44-2019-2"
+        ],
+        [
+            "Bloomberg",
+            "Luke Perry Hospitalized And 'Under Observation'",
+            "https://www.bloomberg.com/tosv2.html?vid=&uuid=f9470fa0-3b7f-11e9-b628-eb3fbdd3c97f&url=L25ld3MvYXJ0aWNsZXMvMjAxOS0wMi0yOC9wdWJsaWNpc3QtbHVrZS1wZXJyeS1ob3NwaXRhbGl6ZWQtYW5kLXVuZGVyLW9ic2VydmF0aW9u"
+        ],
+        [
+            "Gizmodo.com",
+            "More Hints at the Identity of Jude Law's Captain Marvel Character",
+            "https://io9.gizmodo.com/more-hints-at-the-identity-of-jude-laws-captain-marvel-1832510732"
+        ],
+        [
+            "Turnto23.com",
+            "Publicist: Luke Perry hospitalized and 'under observation' - KERO 23ABC News",
+            "https://www.turnto23.com/news/national/tmz-luke-perry-suffers-stroke-hospitalized"
+        ],
+        [
+            "Vulture.com",
+            "Luke Perry Hospitalized After Reported Stroke",
+            "http://www.vulture.com/2019/02/luke-perry-hospitalized-stroke.html"
+        ],
+        [
+            "People.com",
+            "Luke Perry Hospitalized, Remains 'Under Observation' for Reported Stroke",
+            "https://people.com/tv/luke-perry-hospitalized/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Beverly Hills 90210 regresar\u00e1 con casi todo su elenco original",
+            "https://www.fayerwayer.com/2019/02/beverly-hills-90210-miniserie/"
+        ],
+        [
+            "Tomshw.it",
+            "Luke Perry in ospedale: l\u2019attore \u00e8 stato colpito da un ictus",
+            "https://www.tomshw.it/culturapop/luke-perry-in-ospedale-lattore-e-stato-colpito-da-un-ictus/"
+        ],
+        [
+            "Huffingtonpost.fr",
+            "Luke Perry, acteur de \"Riverdale\" et \"90210\", hospitalis\u00e9 apr\u00e8s un AVC",
+            "https://www.huffingtonpost.fr/2019/02/28/luke-perry-avc_a_23680692/"
+        ],
+        [
+            "Ilfattoquotidiano.it",
+            "Luke Perry, l\u2019attore di Beverly Hills ha avuto un ictus: ricoverato d\u2019urgenza in ospedale",
+            "https://www.ilfattoquotidiano.it/2019/02/28/luke-perry-lattore-di-beverly-hills-ricoverato-durgenza-per-un-ictus/5005059/"
+        ],
+        [
+            "People.com",
+            "Shannen Doherty, Ian Ziering and More Stars Support Luke Perry: 'Let Us All Say a Prayer'",
+            "https://people.com/tv/celebrities-react-luke-perry-hospitalization/"
+        ],
+        [
+            "20minutos.es",
+            "Luke Perry, Dylan en 'Sensaci\u00f3n de vivir', hospitalizado por un derrame cerebral",
+            "https://www.20minutos.es/noticia/3575954/0/luke-perry-sufre-derrame-cerebral/"
+        ],
+        [
+            "Pitchfork.com",
+            "Lady Gaga Gets in Heated Fight With Dr. Luke\u2019s Lawyer, Defends Kesha in Unsealed Deposition",
+            "https://pitchfork.com/news/lady-gaga-gets-in-heated-fight-with-dr-lukes-lawyer-defends-kesha-in-unsealed-deposition/"
+        ],
+        [
+            "La Repubblica",
+            "Luke Perry ricoverato d'urgenza per un ictus: il Dylan McKay di Beverly Hills in ospedale",
+            "https://www.repubblica.it/spettacoli/people/2019/02/28/news/luke_perry_dylan_mckay_ictus_tmz-220376910/"
+        ]
+    ],
+    "Monday Night Football": [
+        [
+            "The New York Times",
+            "Bob Costas Accuses NBC of Retaliating for His Remarks on Concussions in N.F.L.",
+            "https://www.nytimes.com/2019/02/11/sports/bob-costas-super-bowl.html"
+        ],
+        [
+            "Mashable",
+            "NHL reporter comes within inches of a puck nailing him in the head",
+            "https://mashable.com/article/nhl-reporter-puck-misses-head/"
+        ],
+        [
+            "USA Today",
+            "Jason Witten returning to play for Cowboys after year as 'Monday Night Football' analyst",
+            "https://www.usatoday.com/story/sports/nfl/cowboys/2019/02/28/jason-witten-dallas-cowboys-return-monday-night-football/3016819002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "BBC News",
+            "West Ham hand over evidence of alleged Salah abuse to police",
+            "https://www.bbc.co.uk/sport/football/47165153"
+        ],
+        [
+            "The Guardian (AU)",
+            "Ashley Cole sets record straight on England\u2019s Golden Generation | Barney Ronay",
+            "https://www.theguardian.com/football/blog/2019/feb/09/ashley-cole-sets-record-straight-england-golden-generation"
+        ],
+        [
+            "The Guardian (AU)",
+            "Manchester United and Chelsea seek some salvation in a Wembley return | Paul Wilson",
+            "https://www.theguardian.com/football/blog/2019/feb/17/chelsea-manchester-united-fa-cup"
+        ],
+        [
+            "Espn.com",
+            "Reigns says leukemia in remission, plans return",
+            "http://www.espn.com/wwe/story/_/id/26080477/wwe-roman-reigns-says-return-leukemia-remission"
+        ],
+        [
+            "The Guardian (AU)",
+            "How Theresa May's plan was brokered despite Tory divisions",
+            "https://www.theguardian.com/politics/2019/jan/29/how-mays-plan-was-brokered-despite-tory-divisions"
+        ],
+        [
+            "Business Insider",
+            "Most Americans don't think the day after the Super Bowl should be declared a national holiday",
+            "https://www.businessinsider.com/day-after-super-bowl-holiday-2019-1"
+        ],
+        [
+            "Androidcentral.com",
+            "3 ways Amazon Echo and Alexa can improve your Super Bowl party",
+            "https://www.androidcentral.com/three-ways-amazon-echo-and-alexa-can-help-your-super-bowl-party"
+        ],
+        [
+            "The Guardian (AU)",
+            "Kepa and Sarri are actors in the soap opera of football social media | Marina Hyde",
+            "https://www.theguardian.com/football/blog/2019/feb/27/chelsea-kepa-sarri-league-cup-final-social-media"
+        ],
+        [
+            "Yahoo.com",
+            "Liam Neeson wanted to kill someone",
+            "https://news.yahoo.com/liam-neeson-wanted-kill-someone-233900114.html"
+        ],
+        [
+            "USA Today",
+            "Nickell Robey-Coleman uses Super Bowl Opening Night to clarify jabs about Tom Brady aging",
+            "https://www.usatoday.com/story/sports/nfl/super-bowl/2019/01/28/super-bowl-liii-nickell-robey-coleman-answers-jabs-tom-brady/2707765002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "The Guardian (AU)",
+            "Cardiff team scared to fly after Emiliano Sala disappearance, says Sol Bamba",
+            "https://www.theguardian.com/football/2019/jan/30/cardiff-city-emiliano-sala-sol-bamba"
+        ],
+        [
+            "The Guardian (AU)",
+            "Chelsea may turn to England coach Steve Holland if Maurizio Sarri is sacked",
+            "https://www.theguardian.com/football/2019/feb/22/chelsea-steve-holland-maurizio-sarri-sacked-england"
+        ],
+        [
+            "USA Today",
+            "Patriots' Julian Edelman walks streets of Atlanta by himself, gets tour from stranger",
+            "https://www.usatoday.com/story/sports/nfl/super-bowl/2019/01/30/julian-edelman-patriots-atlanta-tour-stranger/2727198002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Timesnownews.com",
+            "Champions League: 'Nothing personal' in beating Bayern Munich for Jurgen Klopp - Times Now",
+            "https://www.timesnownews.com/sports/football/article/champions-league-nothing-personal-in-beating-bayern-munich-for-jurgen-klopp/368279"
+        ],
+        [
+            "The Guardian (AU)",
+            "Emiliano Sala\u2019s disappearance has made me consider retiring, says Neil Warnock",
+            "https://www.theguardian.com/football/2019/jan/28/neil-warnock-considered-retiring-cardiff-emiliano-sala-disappearance"
+        ],
+        [
+            "Bleacher Report",
+            "Ashley Cole Says He 'Was a Little Bit Stubborn' When He Left Arsenal for Chelsea",
+            "https://bleacherreport.com/articles/2819489-ashley-cole-says-he-was-a-little-bit-stubborn-when-he-left-arsenal-for-chelsea"
+        ],
+        [
+            "Boingboing.net",
+            "Incredible video of space station flying in front of the moon",
+            "https://boingboing.net/2019/02/12/incredible-video-of-space-stat.html"
+        ]
+    ],
+    "Booger": [
+        [
+            "Business Insider",
+            "There are serious health reasons you shouldn't eat your boogers",
+            "https://www.businessinsider.com/boogers-snot-eat-nose-unhealthy-science-virus-bacteria-2019-1"
+        ],
+        [
+            "Coolmaterial.com",
+            "\u2018Coca\u00efn: History & Culture\u2019",
+            "https://coolmaterial.com/media/cocain-history-culture/"
+        ],
+        [
+            "Cracked.com",
+            "5 Early Versions Of Movies That Would've Changed Everything",
+            "http://www.cracked.com/article_26163_5-early-versions-movies-that-wouldve-changed-everything.html"
+        ],
+        [
+            "Forbes.com",
+            "Tight End Jason Witten Returns To Cowboys To Play Tight End",
+            "https://www.forbes.com/sites/barryhorn/2019/02/28/tight-end-jason-witten-returns-to-cowboys-to-play-tight-end/"
+        ],
+        [
+            "Thetruthaboutcars.com",
+            "Piston Slap: The Times They Are a-Changin\u2019",
+            "https://www.thetruthaboutcars.com/2019/02/piston-slap-the-times-they-are-a-changin/"
+        ],
+        [
+            "Bossip.com",
+            "Woman Calls Cops After Drug Dealer Sells Her Sweetener Instead Of Her Beloved Booger Sugar",
+            "https://bossip.com/1706938/woman-calls-cops-after-dealer-gives-her-sugar-instead-of-cocaine/"
+        ],
+        [
+            "Indianexpress.com",
+            "Valentine\u2019s Day 2019: Leave behind the kids and plan a romantic getaway",
+            "https://indianexpress.com/article/parenting/family/valentines-day-romantic-holiday-without-kids-5578588/"
+        ],
+        [
+            "Thebiglead.com",
+            "Jason Witten to Return to the Dallas Cowboys for a 16th Season",
+            "https://thebiglead.com/2019/02/28/jason-witten-to-return-to-the-dallas-cowboys-for-a-16th-season/"
+        ],
+        [
+            "Sbnation.com",
+            "Jason Witten broke the Pro Bowl trophy in half, a fitting end to his awful year at ESPN",
+            "https://www.sbnation.com/2019/1/27/18199841/jason-witten-broke-the-dang-pro-bowl-trophy"
+        ],
+        [
+            "Vulture.com",
+            "The Real Housewives of Atlanta Recap: Proposals and Stuff",
+            "http://www.vulture.com/2019/02/the-real-housewives-of-atlanta-recap-season-11-episode-15.html"
+        ],
+        [
+            "Forbes.com",
+            "The World's Longest Candy Counter Is In This Tiny New Hampshire Town",
+            "https://www.forbes.com/sites/julietremaine/2019/02/26/the-worlds-longest-candy-counter-is-in-this-tiny-new-hampshire-town/"
+        ],
+        [
+            "Golfdigest.com",
+            "Jason Witten caps no good, very bad year by wrecking the Pro Bowl trophy",
+            "https://www.golfdigest.com/story/jason-witten-caps-no-good-very-bad-year-by-wrecking-the-pro-bowl-trophy"
+        ],
+        [
+            "Espn.com",
+            "Ten predictions for 2019 NFL season: Le'Veon to the Texans?",
+            "http://www.espn.com/nfl/story/_/id/25886188/ten-bold-nfl-predictions-2019-season-landing-spot-leveon-foles"
+        ],
+        [
+            "Philly.com",
+            "Jason Witten didn't catch any breaks during Pro Bowl on ESPN - Philly.com",
+            "http://www.philly.com/eagles/jason-witten-pro-bowl-espn-broke-trophy-nfl-referees-saints-20190128.html"
+        ],
+        [
+            "Bleedingcool.com",
+            "\u2018Star Trek: Discovery\u2019 Preview \u2013 The Number One Reason To Watch \u201cAn Obol for Charon\u201d",
+            "https://www.bleedingcool.com/2019/02/07/star-trek-discovery-s2e4-charon-preview/"
+        ],
+        [
+            "Brobible.com",
+            "The Internet Reacts To Jason Witten Leaving \u2018Monday Night Football\u2019 To Return To Play For The Dallas Cowboys",
+            "https://brobible.com/sports/article/jason-witten-monday-night-football-cowboys/"
+        ],
+        [
+            "Forbes.com",
+            "Why Fox News' Pete Hegseth Hasn't Washed His Hands In 10 Years",
+            "https://www.forbes.com/sites/brucelee/2019/02/11/why-fox-news-pete-hegseth-hasnt-washed-his-hands-in-10-years/"
+        ],
+        [
+            "Kinja.com",
+            "Booger.",
+            "https://oppositelock.kinja.com/booger-1832506365"
+        ],
+        [
+            "Wallpaper.com",
+            "Sarah Lucas disrupts Franz West\u2019s Tate Modern survey in off-kilter meeting of two great art provocateurs",
+            "https://www.wallpaper.com/art/franz-west-tate-modern-retrospective-sarah-lucas"
+        ],
+        [
+            "Nzherald.co.nz",
+            "The Booger Man: Snot-spraying rugby player banned for 13 weeks",
+            "https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12205768"
+        ]
+    ],
+    "CPAC": [
+        [
+            "Huffpost.com",
+            "Scott Walker Compares Abortion To Taking A Baby Home And Killing It, Gets Praise",
+            "https://www.huffpost.com/entry/scott-walker-abortion-cpac_n_5c77fb3de4b0d3a48b576224"
+        ],
+        [
+            "Politico",
+            "CPAC\u2019s new boogeyman: China",
+            "https://www.politico.com/story/2019/02/28/cpac-conservatives-china-1194212"
+        ],
+        [
+            "Rollingstone.com",
+            "Scott Walker Believes Impeachment Is a Fool\u2019s Game",
+            "https://www.rollingstone.com/politics/politics-news/scott-walker-trump-impeachment-801225/"
+        ],
+        [
+            "USA Today",
+            "Ann Coulter after Trump's order: \u2018The only national emergency is that our president is an idiot\u2019",
+            "https://www.usatoday.com/story/news/politics/2019/02/16/ann-coulter-donald-trump-national-emergency-order/2890714002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Thinkprogress.org",
+            "NRA president Oliver North kicks off CPAC by fearmongering about gun control",
+            "https://thinkprogress.org/nra-president-oliver-north-cpac-gun-control-629f37f4eab8/"
+        ],
+        [
+            "National Review",
+            "Reagan at CPAC",
+            "https://www.nationalreview.com/2019/02/reagan-at-cpac-speech-collection-conservative-conference/"
+        ],
+        [
+            "Thedailybeast.com",
+            "CPAC Is Just Another Version of Trump's Twitter Feed",
+            "https://www.thedailybeast.com/cpac-is-just-another-version-of-trumps-twitter-feed"
+        ],
+        [
+            "Yahoo.com",
+            "Reagan at CPAC",
+            "https://news.yahoo.com/reagan-cpac-113001306.html"
+        ],
+        [
+            "Crooksandliars.com",
+            "CPAC's Extra Special Focus This Year: Socialism?",
+            "https://crooksandliars.com/2019/02/cpacs-extra-special-focus-year-socialism"
+        ],
+        [
+            "Politico",
+            "Matt Schlapp: \u2019Mueller will be gone soon\u2019",
+            "https://www.politico.com/story/2019/02/14/matt-schlapp-mueller-investigation-barr-1170731"
+        ],
+        [
+            "Washingtonexaminer.com",
+            "RNC chairwoman dares Republicans to primary Trump: 'Go ahead and lose' - Washington Examiner",
+            "https://www.washingtonexaminer.com/news/rnc-chairwoman-dares-republicans-to-primary-trump-go-ahead-and-lose"
+        ],
+        [
+            "Breitbart News",
+            "Confirmed: President Donald Trump Returning to CPAC",
+            "https://www.breitbart.com/politics/2019/02/25/confirmed-president-donald-trump-returning-to-cpac/"
+        ],
+        [
+            "Patheos.com",
+            "\u201cMy Pillow\u201d Guy at CPAC: Donald Trump is the Best Because He \u201cWas Chosen by God\u201d",
+            "https://friendlyatheist.patheos.com/2019/02/28/my-pillow-guy-at-cpac-donald-trump-is-the-best-because-he-was-chosen-by-god/"
+        ],
+        [
+            "MSNBC",
+            "CPAC: Conservatives react to Cohen hearing, North Korea summit",
+            "https://www.msnbc.com/stephanie-ruhle/watch/cpac-conservatives-react-to-michael-cohen-hearing-north-korea-summit-1449811011785"
+        ],
+        [
+            "Powerlineblog.com",
+            "Off to CPAC!",
+            "http://www.powerlineblog.com/archives/2019/02/off-to-cpac.php"
+        ],
+        [
+            "Pjmedia.com",
+            "WHAT AOC, LBJ SHARE WARNS CPAC NOT TO UNDERESTIMATE HER: Yes, she often talks like a lefty loon and \u2026",
+            "https://pjmedia.com/instapundit/what-aoc-lbj-share-warns-cpac-not-to-underestimate-her-yes-she-often-talks-like-a-lefty-loon-and/"
+        ],
+        [
+            "Americanthinker.com",
+            "CPAC Invites Van Jones to Celebrate the Greatest Lie of Our Generation",
+            "https://www.americanthinker.com/articles/2019/02/cpac_invites_van_jones_to_celebrate_the_greatest_lie_of_our_generation.html"
+        ],
+        [
+            "Pjmedia.com",
+            "DOS AND DON\u2019TS FOR CPAC: Dustin Siggins surveyed a bunch of folks who have attended more CPACs than \u2026",
+            "https://pjmedia.com/instapundit/dos-and-donts-for-cpac-dustin-siggins-surveyed-a-bunch-of-folks-who-have-attended-more-cpacs-than/"
+        ],
+        [
+            "Rawstory.com",
+            "WATCH: Scott Walker suggests abortion is the same as \u2018if you take the baby home and kill the baby at home\u2019",
+            "https://www.rawstory.com/2019/02/watch-scott-walker-suggests-abortion-take-baby-home-kill-baby-home/"
+        ],
+        [
+            "Mediaite.com",
+            "WATCH LIVE: CPAC, Day One \u2013 Featuring Laura Ingraham, Ronna McDaniel, Diamond & Silk",
+            "https://www.mediaite.com/online/watch-live-cpac-day-one-featuring-laura-ingraham-ronna-mcdaniel-diamond-silk/"
+        ]
+    ],
+    "Zoido": [
+        [
+            "Elpais.com",
+            "Rajoy, Marchena y Zoido",
+            "https://elpais.com/elpais/2019/02/28/la_voz_de_inaki/1551340228_480466.html"
+        ],
+        [
+            "Elpais.com",
+            "El Supremo cita a Rajoy el 26 de febrero en el juicio del \u2018proces\u2019",
+            "https://elpais.com/politica/2019/02/19/actualidad/1550576628_518360.html"
+        ],
+        [
+            "Elpais.com",
+            "El juicio del \u2018proc\u00e9s\u2019, en directo | Testifican Urkullu, Zoido y Colau",
+            "https://elpais.com/politica/2019/02/28/actualidad/1551334952_210707.html"
+        ],
+        [
+            "Eldiario.es",
+            "Zoido atribuye a los mandos \"operativos\" la orden de cargar en los colegios el 1-O y exime a los pol\u00edticos",
+            "https://www.eldiario.es/catalunya/politica/Zoido-descarga-operativos-decision-politicos_0_872813435.html"
+        ],
+        [
+            "El Mundo",
+            "Zoido: \"Los Mossos no cumplieron con las previsiones a las que se hab\u00edan comprometido\"",
+            "https://www.elmundo.es/espana/2019/02/28/5c781b37fdddff00918b469b.html"
+        ],
+        [
+            "Publico.es",
+            "Zoido justifica l'\u00fas de bales de goma que van fer perdre un ull a Roger Espa\u00f1ol: \"Va ser per sortir d'all\u00e0\"",
+            "https://www.publico.es/public/zoido-justifica-l-us-bales-goma-fer-perdre-ull-roger-espanol-per-sortir-d-alla.html"
+        ],
+        [
+            "Elpais.com",
+            "Lo que nos ense\u00f1\u00f3 el ni\u00f1o Gabriel",
+            "https://elpais.com/politica/2019/02/26/actualidad/1551204333_496576.html"
+        ],
+        [
+            "Elpais.com",
+            "La \u2018puerta giratoria\u2019 de los mandos policiales",
+            "https://elpais.com/politica/2019/02/02/actualidad/1549140039_141705.html"
+        ],
+        [
+            "Elpais.com",
+            "Las defensas salen al ataque",
+            "https://elpais.com/politica/2019/02/12/actualidad/1550003502_809986.html"
+        ],
+        [
+            "Expansion.com",
+            "Cambio de planes en el juicio del proc\u00e9s: Rajoy y Torrent van el mi\u00e9rcoles",
+            "http://www.expansion.com/economia/politica/2019/02/22/5c6fffc8ca4741067b8b45cb.html"
+        ],
+        [
+            "RT",
+            "Mariano Rajoy declarar\u00e1 como testigo en el juicio a los l\u00edderes independentistas catalanes",
+            "https://actualidad.rt.com/actualidad/306020-rajoy-acudira-supremo-testigo-juicio-independentistas"
+        ],
+        [
+            "Libertaddigital.com",
+            "Zoido: \"Los Mossos quer\u00edan comprar armas y munici\u00f3n de guerra\"",
+            "https://www.libertaddigital.com/espana/2019-02-28/juicio-golpistas-proces-zoido-mossos-armas-guerra-1276633989/"
+        ],
+        [
+            "Infolibre.es",
+            "Zoido defiende la actuaci\u00f3n policial y culpa a los Mossos del \"insuficiente\" dispositivo el 1-O",
+            "https://www.infolibre.es/noticias/politica/2019/02/28/zoido_defiende_actuacion_policial_culpa_los_mossos_del_insuficiente_dispositivo_o_92409_1012.html"
+        ],
+        [
+            "Eldiario.es",
+            "El Supremo cita a Rajoy el pr\u00f3ximo martes para testificar en el juicio del proc\u00e9s",
+            "https://www.eldiario.es/catalunya/politica/Supremo-Rajoy-proximo-martes-testificar_0_869663349.html"
+        ],
+        [
+            "Huffingtonpost.es",
+            " V\u00eddeo en directo: siguen las declaraciones de pol\u00edticos en el juicio del 'proc\u00e9s' con Urkullu",
+            "https://www.huffingtonpost.es/2019/02/28/video-en-directo-siguen-las-declaraciones-de-politicos-en-el-juicio-del-proces-con-urkullu_a_23680233/"
+        ],
+        [
+            "Eldiario.es",
+            "La candidata del PP a la Comunidad de Madrid elige de 'n\u00famero dos' al alcalde que llam\u00f3 \"amargadas\" a las feministas",
+            "https://www.eldiario.es/madrid/David-Isabel-Diaz-Ayuso-Comunidad-Madrid_0_870713614.html"
+        ],
+        [
+            "El Mundo",
+            "Pablo Casado guarda sitio para los veteranos en las listas del PP pese a las presiones de su equipo",
+            "https://www.elmundo.es/espana/2019/02/22/5c6f1cadfc6c833a668b46f2.html"
+        ],
+        [
+            "Publico.es",
+            "Santamar\u00eda miente sobre el CNI en el juicio: los esp\u00edas investigaron el refer\u00e9ndum",
+            "https://www.publico.es/politica/santamaria-miente-cni-juicio-espias-investigaron-referendum.html"
+        ],
+        [
+            "Publico.es",
+            "El Supremo aplaza la declaraci\u00f3n como testigo de Rajoy al pr\u00f3ximo mi\u00e9rcoles",
+            "https://www.publico.es/politica/juicio-proces-supremo-retrasa-miercoles-declaracion-testigo-rajoy.html"
+        ],
+        [
+            "Marca",
+            "Juicio del 'proc\u00e9s': Oriol Junqueras comienza a declarar",
+            "https://www.marca.com/tiramillas/actualidad/2019/02/14/5c65224e22601d96708b45ad.html"
+        ]
+    ],
+    "Nick Jonas": [
+        [
+            "Mashable",
+            "Priyanka Chopra Jonas explains why she took her husband's name",
+            "https://mashable.com/video/priyanka-chopra-jonas-name/"
+        ],
+        [
+            "Bizasialive.com",
+            "Priyanka Chopra hiding her pregnancy? - BizAsia",
+            "https://www.bizasialive.com/priyanka-chopra-in-first-trimester-of-pregnancy/"
+        ],
+        [
+            "News18.com",
+            "Priyanka Chopra Reveals Plans for Her First Post-Wedding Valentine's Day With Nick Jonas - News18",
+            "https://www.news18.com/news/movies/priyanka-chopra-reveals-plans-for-her-first-post-wedding-valentines-day-with-nick-jonas-2032975.html"
+        ],
+        [
+            "Hindustantimes.com",
+            "Priyanka Chopra asks fans to find someone who looks at them the way husband Nick Jonas looks at her,... - Hindustan Times",
+            "https://www.hindustantimes.com/bollywood/priyanka-chopra-asks-fans-to-find-someone-who-looks-at-them-the-way-husband-nick-jonas-looks-at-her-see-pic/story-ah5yisUx7xUMfEe1qOcXvK.html"
+        ],
+        [
+            "Timesnownews.com",
+            "REVEALED! Priyanka Chopra, Nick Jonas' plans for their first Valentine's Day after wedding - Times Now",
+            "https://www.timesnownews.com/entertainment/news/people/article/revealed-priyanka-chopra-nick-jonas-plans-for-their-first-valentines-day-after-wedding/363800"
+        ],
+        [
+            "News18.com",
+            "Priyanka Chopra, Nick Jonas Get Cosy at Oscars Afterparty, See Photos Here - News18",
+            "https://www.news18.com/news/movies/priyanka-chopra-nick-jonas-get-cosy-at-oscars-afterparty-see-photos-here-2048829.html"
+        ],
+        [
+            "Hindustantimes.com",
+            "As Priyanka Chopra gets a wax figure, husband Nick Jonas shares his own. Fans think he is trolling... - Hindustan Times",
+            "https://www.hindustantimes.com/bollywood/as-priyanka-chopra-gets-a-wax-figure-husband-nick-jonas-shares-his-own-fans-think-he-is-trolling-her/story-6BnyUoamb3x7RHPAZHiDpK.html"
+        ],
+        [
+            "Hindustantimes.com",
+            "Koffee With Karan: Priyanka Chopra reveals what Nick Jonas asked her about her name change after we... - Hindustan Times",
+            "https://www.hindustantimes.com/tv/koffee-with-karan-priyanka-chopra-reveals-what-nick-jonas-asked-her-about-her-name-change-after-wedding/story-qPWZSzhjl9w2PBiw4zliMM.html"
+        ],
+        [
+            "The Times of India",
+            "Photos: Nick Jonas goes all desi at Priyanka Chopra's brother Siddharth Chopra's Roka ceremony - Times of India",
+            "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/photos-nick-jonas-goes-all-desi-at-priyanka-chopras-brother-siddharth-chopras-roka-ceremony/articleshow/68191017.cms"
+        ],
+        [
+            "Timesnownews.com",
+            "This UNSEEN video from Priyanka Chopra and Nick Jonas' wedding is the perfect Valentine's Day gift for fans - Times Now",
+            "https://www.timesnownews.com/entertainment/news/people/article/this-unseen-video-from-priyanka-chopra-and-nick-jonas-wedding-is-the-perfect-valentines-day-gift-for-fans/365419"
+        ],
+        [
+            "News18.com",
+            "Priyanka Chopra's Play Time With Jimmy Fallon, Bollywood Embraces More Female Filmmakers - News18",
+            "https://www.news18.com/news/movies/why-oscars-dropping-four-categories-from-telecast-isnt-the-wisest-idea-but-nominating-this-film-on-menstrual-taboos-definitely-is-2035583.html"
+        ],
+        [
+            "Hindustantimes.com",
+            "Priyanka Chopra sticks her tongue out at Nick Jonas as they attend Vanity Fair Oscars after-party - Hindustan Times",
+            "https://www.hindustantimes.com/hollywood/priyanka-chopra-sticks-her-tongue-out-at-nick-jonas-as-they-attend-vanity-fair-oscars-after-party/story-5v9foVfYABfSE5gxGhvZqJ.html"
+        ],
+        [
+            "Thisisinsider.com",
+            "Priyanka Chopra revealed Nick Jonas' 'mind-blowing' romantic surprise for her right before their wedding",
+            "https://www.thisisinsider.com/priyanka-chopra-nick-jonas-pre-wedding-romantic-surprise-entertainment-tonight-video-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "Watch Nick Jonas put his own spin on Lady Gaga and Bradley Cooper's 'Shallow' from 'A Star Is Born'",
+            "https://www.thisisinsider.com/nick-jonas-shallow-a-star-is-born-cover-video-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "Priyanka Chopra says that having kids with Nick Jonas 'needs to happen,' but they're not in a rush",
+            "https://www.thisisinsider.com/priyanka-chopra-talks-about-having-kids-with-nick-jonas-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "Priyanka Chopra says she loves the 'security' of being married to Nick Jonas: 'You're not in it alone'",
+            "https://www.thisisinsider.com/priyanka-chopra-nick-jonas-married-life-best-part-security-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "Priyanka Chopra says she didn't 'understand the gravity' of being married to Nick Jonas",
+            "https://www.thisisinsider.com/priyanka-chopra-gravity-of-being-married-to-nick-jonas-video-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "Priyanka Chopra put a colorful spin on the sheer dress trend during a night out with Nick Jonas",
+            "https://www.thisisinsider.com/priyanka-chopra-sheer-colorful-dress-nick-jonas-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "The Jonas Brothers are reportedly reuniting and going on tour",
+            "https://www.thisisinsider.com/the-jonas-brothers-reportedly-reuniting-2019-2"
+        ],
+        [
+            "Thisisinsider.com",
+            "Joe Jonas spoofs 'Planet Earth' with a video of Sophie Turner tripping and falling in the snow",
+            "https://www.thisisinsider.com/sophie-turner-joe-jonas-instagram-video-snow-fall-2019-2"
+        ]
+    ],
+    "Andr\u00e9 Previn": [
+        [
+            "The New York Times",
+            "Andr\u00e9 Previn, Whose Music Knew No Boundaries, Dies at 89",
+            "https://www.nytimes.com/2019/02/28/obituaries/andre-previn-whose-music-knew-no-boundaries-dies-at-89.html"
+        ],
+        [
+            "Deadline.com",
+            "Andr\u00e9 Previn Dies: Four-Time Oscar-Winning Composer Was 89",
+            "https://deadline.com/2019/02/andre-previn-dead-composer-conductor-oscars-1202567157/"
+        ],
+        [
+            "La Repubblica",
+            "\u00c8 morto il compositore Andr\u00e9 Previn, 4 volte premio Oscar",
+            "https://www.repubblica.it/spettacoli/cinema/2019/02/28/news/e_morto_il_compositore_andre_previn_4_volte_premio_oscar-220383459/"
+        ],
+        [
+            "Artsjournal.com",
+            "Andr\u00e9 Previn, 89",
+            "https://www.artsjournal.com/2019/02/andre-previn-89.html"
+        ],
+        [
+            "The Telegraph",
+            "Oscar-winning composer Andre Previn dies at 89",
+            "https://www.telegraph.co.uk/music/news/oscar-winning-composer-andre-previn-dies-89/"
+        ],
+        [
+            "CBS News",
+            "Andr\u00e9 Previn, renowned musician, dead at 89",
+            "https://www.cbsnews.com/news/andre-previn-award-winning-musician-has-died-at-89-2019-02-28/"
+        ],
+        [
+            "Observador.pt",
+            "Morreu Andr\u00e9 Previn, compositor e maestro vencedor de quatro \u00d3scares",
+            "https://observador.pt/2019/02/28/morreu-andre-previn-compositor-e-maestro-vencedor-de-quatro-oscares/"
+        ],
+        [
+            "Cmjornal.pt",
+            "Morreu o maestro e compositor Andr\u00e9 Previn",
+            "https://cdn.cmjornal.pt/images/2019-02/img_770x433$2019_02_28_18_29_35_826322.jpg"
+        ],
+        [
+            "Thewrap.com",
+            "Andre Previn, Oscar-Winning Composer of \u2018My Fair Lady,\u2019 Dies at 89",
+            "http://www.thewrap.com/andre-previn-oscar-winning-composer-of-my-fair-lady-dies-at-89/"
+        ],
+        [
+            "Abril.com.br",
+            "Woody Allen fecha contrato com produtora espanhola para pr\u00f3ximo filme",
+            "https://veja.abril.com.br/entretenimento/woody-allen-fecha-contrato-com-produtora-espanhola-para-proximo-filme/"
+        ],
+        [
+            "El Mundo",
+            "Muere Andr\u00e9 Previn, pianista, compositor, director de orquesta y ganador de cuatro Oscars",
+            "https://www.elmundo.es/cultura/musica/2019/02/28/5c7819f6fc6c83495c8b4671.html"
+        ],
+        [
+            "Independent.ie",
+            "Oscar-winning composer Andre Previn dies aged 89",
+            "https://www.independent.ie/entertainment/music/music-news/oscarwinning-composer-andre-previn-dies-aged-89-37866315.html"
+        ],
+        [
+            "Natemat.pl",
+            "Woody Allen nie odpuszcza. Domaga si\u0119 od Amazona gigantycznego odszkodowania",
+            "https://natemat.pl/263459,woody-allen-pozwal-amazon-domaga-sie-69-milionow-dolarow"
+        ],
+        [
+            "Npr.org",
+            "Andr\u00e9 Previn, Musical Polymath, Has Died At Age 89",
+            "https://www.npr.org/sections/thetwo-way/2019/02/28/517960940/andre-previn-musical-polymath-has-died-at-age-89"
+        ],
+        [
+            "Thedailybeast.com",
+            "Composer Andr\u00e9 Previn Dead at 89",
+            "https://www.thedailybeast.com/composer-andre-previn-dead-at-89"
+        ],
+        [
+            "Latimes.com",
+            "Andre Previn, former L.A. Phil music director and four-time Oscar winner, dies at 89",
+            "https://www.latimes.com/local/obituaries/la-me-andre-previn-composer-dead-20190228-story.html"
+        ],
+        [
+            "Www.abc.es",
+            "Muere Andr\u00e9 Previn, afamado m\u00fasico y ganador de cuatro Oscar",
+            "https://www.abc.es/cultura/musica/abci-muere-andre-previn-afamado-musico-y-ganador-cuatro-oscar-201902281854_noticia.html"
+        ],
+        [
+            "Freerepublic.com",
+            "Andr\u00e9 Previn, Whose Music Knew No Boundaries, Dies at 89",
+            "https://www.freerepublic.com/focus/f-news/3731197/posts"
+        ],
+        [
+            "Tvshow.com.uy",
+            "El compositor y director de orquesta Andr\u00e9 Previn falleci\u00f3 a los 89 a\u00f1os",
+            "http://www.tvshow.com.uy/personajes/compositor-director-orquesta-andre-previn-fallecio-anos.html"
+        ],
+        [
+            "Nypost.com",
+            "The 10 most embarrassing flubs in Oscars history",
+            "https://nypost.com/2019/02/22/the-10-most-embarrassing-flubs-in-oscars-history/"
+        ]
+    ],
+    "Fulham": [
+        [
+            "BBC News",
+            "Struggling Fulham sack manager Ranieri after 16 league games in charge",
+            "https://www.bbc.co.uk/sport/football/47401305"
+        ],
+        [
+            "The Guardian (AU)",
+            "Fulham v Manchester United: Premier League \u2013 live!",
+            "https://www.theguardian.com/football/live/2019/feb/09/fulham-v-manchester-united-premier-league-live"
+        ],
+        [
+            "The Guardian (AU)",
+            "West Ham v Fulham: Premier League \u2013 live!",
+            "https://www.theguardian.com/football/live/2019/feb/22/west-ham-v-fulham-premier-league-live"
+        ],
+        [
+            "BBC News",
+            "What happened in the Premier League? Wins for Liverpool, Man City, Arsenal, Chelsea & Man United",
+            "https://www.bbc.co.uk/sport/football/47393900"
+        ],
+        [
+            "The New York Times",
+            "On Soccer: Manchester United and the Siren Song of the Quick Fix",
+            "https://www.nytimes.com/2019/02/18/sports/manchester-united-solskjaer.html"
+        ],
+        [
+            "Timesnownews.com",
+            "Anthony Martial recreates Cristiano Ronaldo\u2019s magical goal scored against Fulham in 2007 \u2013 Watch Video - Times Now",
+            "https://www.timesnownews.com/sports/football/article/premier-league-anthony-martial-recreates-cristiano-ronaldo-s-magical-goal-scored-against-fulham-in-2007-watch-video/362911"
+        ],
+        [
+            "The Guardian (AU)",
+            "Claudio Ranieri facing sack as Fulham manager after 16 Premier League games",
+            "https://www.theguardian.com/football/2019/feb/28/claudio-ranieri-sack-fulham-premier-league-scott-parker"
+        ],
+        [
+            "Espn.com",
+            "Facing relegation, Fulham fires manager Ranieri",
+            "http://www.espn.com/soccer/fulham/story/3786669/ranieri-leaves-fulham-with-club-10-points-from-safety-parker-takes-over"
+        ],
+        [
+            "BBC News",
+            "Premier League January spending falls for first time since 2012 after quiet deadline day",
+            "https://www.bbc.co.uk/sport/football/47079813"
+        ],
+        [
+            "The Guardian (AU)",
+            "Javier Hern\u00e1ndez on hand as West Ham recover from early blow to beat Fulham",
+            "https://www.theguardian.com/football/2019/feb/22/west-ham-fulham-premier-league-match-report"
+        ],
+        [
+            "USA Today",
+            "Premier League struggler Fulham fires manager Ranieri",
+            "https://www.usatoday.com/story/sports/soccer/2019/02/28/premier-league-struggler-fulham-fires-manager-ranieri/39129239/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Thehardtackle.com",
+            "Manchester United Player Ratings vs Fulham: Pogba and Martial's... - The Hard Tackle",
+            "http://www.thehardtackle.com/round-up/2019/02/10/manchester-united-player-ratings-vs-fulham-pogba-and-martials-french-connection-inspires-win/"
+        ],
+        [
+            "The Guardian (AU)",
+            "Liverpool v Bournemouth, Atl\u00e9tico Madrid v Real Madrid \u2013 live!",
+            "https://www.theguardian.com/football/live/2019/feb/09/liverpool-v-bournemouth-atletico-madrid-v-real-madrid-live-clockwatch-football"
+        ],
+        [
+            "USA Today",
+            "Man United beats Fulham to move into Premier League's top 4",
+            "https://www.usatoday.com/story/sports/soccer/2019/02/09/man-united-beats-fulham-to-move-into-premier-leagues-top-4/39031147/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "BBC News",
+            "Roy Hodgson: The Premier League's oldest manager - by those who know him best",
+            "https://www.bbc.co.uk/sport/football/47291607"
+        ],
+        [
+            "The Guardian (AU)",
+            "Manchester United v Burnley, Arsenal v Cardiff and more: Premier League \u2013 live!",
+            "https://www.theguardian.com/football/live/2019/jan/29/manchester-united-v-burnley-arsenal-v-cardiff-and-more-premier-league-live"
+        ],
+        [
+            "The Guardian (AU)",
+            "Sarri-vederci? Plus penalty drama and Pukki delight \u2013 Football Weekly",
+            "https://www.theguardian.com/football/audio/2019/feb/11/sarri-vederci-plus-penalty-drama-and-pukki-delight-football-weekly"
+        ],
+        [
+            "The Guardian (AU)",
+            "Friday\u2019s best TV: The Big Narstie Show, Curfew, PBS America",
+            "https://www.theguardian.com/tv-and-radio/2019/feb/22/fridays-best-tv-the-big-narstie-show-curfew-pbs-america"
+        ],
+        [
+            "The Guardian (AU)",
+            "Premier League: 10 talking points from the weekend\u2019s action",
+            "https://www.theguardian.com/football/blog/2019/feb/11/premier-league-ten-talking-points"
+        ],
+        [
+            "BBC News",
+            "Chelsea win brings respite for Sarri - but 'disaster' could await against Man City",
+            "https://www.bbc.co.uk/sport/football/47326905"
+        ]
+    ],
+    "Romo": [
+        [
+            "CNN",
+            "First time Oscars nom has already made history",
+            "https://www.cnn.com/videos/media/2019/02/24/roma-first-indigenous-actress-nominated-oscars-romo-pkg-vpx.cnn"
+        ],
+        [
+            "BBC News",
+            "Bill Belichick: 'A genius, but like any other 60-year-old with tech'",
+            "https://www.bbc.co.uk/sport/av/american-football/47014908"
+        ],
+        [
+            "TechCrunch",
+            "Electric scooter startup Grin merges with Brazil-based Yellow",
+            "http://techcrunch.com/2019/01/30/electric-scooter-startup-grin-merges-with-brazil-based-yellow/"
+        ],
+        [
+            "Cnet.com",
+            "Super Bowl 2019 commercials so far: Tony Romo, Chance the Rapper and more - CNET",
+            "https://www.cnet.com/news/super-bowl-2019-commercials-so-far-tony-romo-chance-the-rapper-and-more/"
+        ],
+        [
+            "Business Insider",
+            "The first half of the Super Bowl was so boring Jim Nantz and Tony Romo lost their minds over a punt",
+            "https://www.businessinsider.com/super-bowl-boring-nantz-romo-johnny-hekker-punt-2019-2"
+        ],
+        [
+            "USA Today",
+            "Versatile Romo feeling young as part of rebuilding Marlins",
+            "https://www.usatoday.com/story/sports/mlb/2019/02/16/versatile-romo-feeling-young-as-part-of-rebuilding-marlins/39068973/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Youtube.com",
+            "Tom Brady sits down with Tony Romo | Super Bowl LIII - CBS Sports",
+            "https://www.youtube.com/watch?v=KzWj-o9EJrc"
+        ],
+        [
+            "USA Today",
+            "Ad Meter 2019: Sketchers",
+            "https://www.usatoday.com/videos/sports/Ad-Meter/2019/01/29/ad-meter-2019-sketchers/2712920002/"
+        ],
+        [
+            "Golfweek.com",
+            "Tony Romo gets sponsor's exemption to play in PGA Tour's Byron Nelson",
+            "https://golfweek.com/2019/02/19/tony-romo-gets-sponsors-exemption-to-play-in-pga-tours-byron-nelson?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Business Insider",
+            "Everything you need to know heading into Super Bowl LIII",
+            "https://www.businessinsider.com/super-bowl-liii-time-preview-patriots-rams-2019-1"
+        ],
+        [
+            "Golfweek.com",
+            "NFL analyst Tony Romo withdraws from Pebble Beach Pro-Am",
+            "https://golfweek.com/2019/02/09/tony-romo-withdraws-from-att-pebble-beach-pro-am?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Freep.com",
+            "Opinion: Tony Romo wrong for agreeing to play in PGA Tour's Byron Nelson",
+            "https://www.freep.com/story/sports/golf/2019/02/19/tony-romo-pga-tour-byron-nelson/2918541002?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Business Insider",
+            "The Super Bowl was unlike anything the NFL saw all season",
+            "https://www.businessinsider.com/super-bowl-2019-low-score-unlike-2018-nfl-season-2019-2"
+        ],
+        [
+            "Business Insider",
+            "People are praising Tracy Wolfson for her Super Bowl performance after post-game media scrum turned into a chaotic mosh pit",
+            "https://www.businessinsider.com/super-bowl-tom-brady-postgame-chaos-2019-2"
+        ],
+        [
+            "Cnet.com",
+            "Best Super Bowl 2019 commercials ranked: Game of Thrones, Harrison Ford, 2 Chainz and more - CNET",
+            "https://www.cnet.com/news/best-super-bowl-2019-commercials-2-chainz-backstreet-boys-alexa-the-dude-harrison-ford-game-of-thrones/"
+        ],
+        [
+            "BBC News",
+            "All you need to know about Super Bowl - including why most of the US is rooting for the Rams",
+            "https://www.bbc.co.uk/sport/american-football/46978131"
+        ],
+        [
+            "Bleacher Report",
+            "Watch Tony Romo's Incredible Shot from Pebble Beach Pro-Am Hospitality Tent",
+            "https://bleacherreport.com/articles/2820049-watch-tony-romos-incredible-shot-from-pebble-beach-pro-am-hospitality-tent"
+        ],
+        [
+            "Business Insider",
+            "Gronk brushes off question about his future, but his answer could be a clue that he has already decided to retire",
+            "https://www.businessinsider.com/rob-gronkowski-deflects-questions-regarding-potential-retirement-2019-2"
+        ],
+        [
+            "Deadspin.com",
+            "Mondo Fucking Dumbass Insanely Wrong On Super Bowl Prediction",
+            "https://deadspin.com/mondo-fucking-dumbass-insanely-wrong-on-super-bowl-pred-1832323795"
+        ],
+        [
+            "Sportingnews.com",
+            "Super Bowl 2019: How to live-stream Super Bowl 53 online - Sporting News",
+            "http://www.sportingnews.com/ca/nfl/news/super-bowl-2019-how-to-live-stream-online/19x059n81zh5x1d08ep1y3sk8l"
+        ]
+    ],
+    "Kyler Murray": [
+        [
+            "The New York Times",
+            "On Baseball: In the Case of Kyler Murray, the A\u2019s Bet Big and Lost",
+            "https://www.nytimes.com/2019/02/11/sports/kyle-murray-oakland-athletics-football.html"
+        ],
+        [
+            "Youtube.com",
+            "Kyler Murray will be an NFL draft first-round pick \u2013 Adam Schefter | NFL Live - ESPN",
+            "https://www.youtube.com/watch?v=AjJfo2JrrAE"
+        ],
+        [
+            "Business Insider",
+            "'I was raised to play QB': Kyler Murray chooses NFL over baseball",
+            "https://www.businessinsider.com/kyler-murray-nfl-2019-2"
+        ],
+        [
+            "Business Insider",
+            "How tall is Kyler Murray? Even the Oklahoma Sooners don't seem to know",
+            "https://www.businessinsider.com/how-tall-kyler-murray-oklahoma-sooners-dont-know-2019-2"
+        ],
+        [
+            "Business Insider",
+            "Kyler Murray passed his biggest test at the combine and it ends the debate over his height and NFL credentials",
+            "https://www.businessinsider.com/how-tall-is-kyler-murray-official-nfl-combine-draft-height-2019-2"
+        ],
+        [
+            "Espn.com",
+            "Murray: 'Fully committing' life to being NFL QB",
+            "http://www.espn.com/nfl/draft2019/story/_/id/25973188/kyler-murray-says-fully-committed-being-nfl-quarterback"
+        ],
+        [
+            "USA Today",
+            "Polar bears have taken over a small town",
+            "https://www.usatoday.com/story/news/2019/02/11/robert-mueller-kareem-hunt-and-measles-outbreaks-mondays-news/2839189002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Espn.com",
+            "QB Murray measures 5-10 1/8 at NFL combine",
+            "http://www.espn.com/nfl/draft2019/story/_/id/26102751/qb-murray-measures-5-10-1-8-nfl-combine"
+        ],
+        [
+            "USA Today",
+            "Murray waits to measure up after picking NFL over baseball",
+            "https://www.usatoday.com/story/sports/nfl/2019/02/18/murray-waits-to-measure-up-after-picking-nfl-over-baseball/39078095/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Kyler Murray's NFL team fits: Raiders, Redskins among nine who could target QB",
+            "https://www.usatoday.com/story/sports/nfl/draft/2019/02/12/kyler-murray-nfl-team-fits-raiders-redskins-giants/2838656002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "10 biggest questions for 2019 NFL scouting combine: Which top QB will rise?",
+            "https://www.usatoday.com/story/sports/nfl/draft/2019/02/26/nfl-combine-2019-dwayne-haskins-kyler-murray-questions/2918060002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Kyler Murray chooses to pursue NFL, 'fully committing' to becoming QB",
+            "https://www.usatoday.com/story/sports/nfl/draft/2019/02/11/kyler-murray-nfl-draft-oakland-athletics-mlb/2838329002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Northjersey.com",
+            "Kyler Murray to the Giants? Maybe there's a chance the draft marriage happens after all",
+            "https://www.northjersey.com/story/sports/nfl/giants/2019/02/28/ny-giants-leave-door-open-draft-marriage-qb-kyler-murray/3013905002?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "Opinion: Kyler Murray made the right choice in picking NFL ahead of MLB",
+            "https://www.usatoday.com/story/sports/ncaaf/columnist/george-schroeder/2019/02/11/kyler-murray-picking-nfl-ahead-mlb-right-call-future/2838771002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "USA Today",
+            "As NFL scouting combine looms, Kyler Murray will face plenty of tough questions",
+            "https://www.usatoday.com/story/sports/nfl/columnist/mike-jones/2019/02/22/nfl-draft-2019-kyler-murray-scouting-combine/2940464002/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Milehighreport.com",
+            "ESPN\u2019s Todd McShay mocks Deandre Baker to Denver Broncos - Mile High Report",
+            "https://www.milehighreport.com/2019/2/8/18216925/mcshay-mock-deandre-baker-broncos"
+        ],
+        [
+            "USA Today",
+            "How many Kyler Murrays are out there in specialization era?",
+            "https://www.usatoday.com/story/sports/nfl/2019/02/12/how-many-kyler-murrays-are-out-there-in-specialization-era/39047797/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Deadspin.com",
+            "Kyler Murray Wanted Football More Than Baseball Wanted Kyler Murray",
+            "https://deadspin.com/kyler-murray-wanted-football-more-than-baseball-wanted-1832539484"
+        ],
+        [
+            "The Guardian (AU)",
+            "Kyler Murray walks away from $4m as he chooses NFL over MLB",
+            "https://www.theguardian.com/sport/2019/feb/11/kyler-murray-oakland-as-baseball-football-nfl-mlb"
+        ],
+        [
+            "The Guardian (AU)",
+            "Will college star Kyler Murray bury the NFL myth of the short quarterback?",
+            "https://www.theguardian.com/sport/2019/feb/25/kyler-murray-nfl-combine-short-quarterbacks-height"
+        ]
+    ],
+    "Claudio Ranieri": [
+        [
+            "BBC News",
+            "Struggling Fulham sack manager Ranieri after 16 league games in charge",
+            "https://www.bbc.co.uk/sport/football/47401305"
+        ],
+        [
+            "The Guardian (AU)",
+            "Claudio Ranieri facing sack as Fulham manager after 16 Premier League games",
+            "https://www.theguardian.com/football/2019/feb/28/claudio-ranieri-sack-fulham-premier-league-scott-parker"
+        ],
+        [
+            "USA Today",
+            "Premier League struggler Fulham fires manager Ranieri",
+            "https://www.usatoday.com/story/sports/soccer/2019/02/28/premier-league-struggler-fulham-fires-manager-ranieri/39129239/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Espn.com",
+            "Facing relegation, Fulham fires manager Ranieri",
+            "http://www.espn.com/soccer/fulham/story/3786669/ranieri-leaves-fulham-with-club-10-points-from-safety-parker-takes-over"
+        ],
+        [
+            "The Guardian (AU)",
+            "Javier Hern\u00e1ndez on hand as West Ham recover from early blow to beat Fulham",
+            "https://www.theguardian.com/football/2019/feb/22/west-ham-fulham-premier-league-match-report"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri sacked by Fulham",
+            "https://www.skysports.com/football/news/11681/11650659/claudio-ranieri-sacked-by-fulham-after-southampton-defeat"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri: We were scared",
+            "https://www.skysports.com/football/news/11681/11645327/claudio-ranieri-says-fulham-scared-after-west-hams-controversial-goal-in-loss"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri set for talks on Fulham future",
+            "https://www.skysports.com/football/news/11681/11650873/claudio-ranieri-set-for-fulham-talks-over-future"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri: Sessegnon can inspire Fulham",
+            "https://www.skysports.com/football/news/11681/11643767/claudio-ranieri-backs-ryan-sessegnon-to-inspire-fulham-turnaround"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri buoyed by Babel signing",
+            "https://www.skysports.com/football/news/11095/11625464/claudio-ranieri-buoyed-by-fulham-signing-ryan-babel"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri: Every match a final",
+            "https://www.skysports.com/football/news/11681/11648664/claudio-ranieri-insists-every-fulham-match-like-a-final-until-end-of-the-season"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri: We have to beat Brighton",
+            "https://www.skysports.com/football/news/11681/11620419/claudio-ranieri-insists-fulham-have-to-win-against-brighton"
+        ],
+        [
+            "Skysports.com",
+            "'We need soldiers ready to fight'",
+            "https://www.skysports.com/football/news/11681/11630611/claudio-ranieri-says-fulhams-players-need-to-be-soldiers-ready-to-fight"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri: Fulham need a miracle",
+            "https://www.skysports.com/football/news/11681/11645476/claudio-ranieri-admits-fulham-need-a-miracle-to-avoid-premier-league-relegation"
+        ],
+        [
+            "Skysports.com",
+            "WATCH: Fulham fans boo Ranieri",
+            "https://www.skysports.com/football/news/11095/11632517/fulham-fans-unhappy-with-claudio-ranieri-after-substitution"
+        ],
+        [
+            "Skysports.com",
+            "'Strange selection policy cost Ranieri'",
+            "https://www.skysports.com/football/news/11681/11651142/claudio-ranieri-sacked-at-fulham-over-strange-selection-policy-says-tony-gale"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri unsure on job security",
+            "https://www.skysports.com/football/news/11681/11650428/claudio-ranieri-admits-he-does-not-know-if-fulham-job-is-safe-after-southampton-loss"
+        ],
+        [
+            "Skysports.com",
+            "Ranieri: Christie 'stupid fool' for pen",
+            "https://www.skysports.com/football/news/11681/11626398/fulham-boss-claudio-ranieri-labels-cyrus-christie-a-stupid-fool-for-penalty-blunder"
+        ],
+        [
+            "Si.com",
+            "Claudio Ranieri Claims Fulham 'Lost Composure' Following 0-3 Loss to Man Utd",
+            "https://www.si.com/soccer/2019/02/10/claudio-ranieri-claims-fulham-lost-composure-following-0-3-loss-man-utd"
+        ],
+        [
+            "BBC News",
+            "Fulham 4-2 Brighton: Claudio Ranieri praises Fulham's 'fighting spirit'",
+            "https://www.bbc.co.uk/sport/av/football/47050195"
+        ]
+    ],
+    "Scott Parker": [
+        [
+            "BBC News",
+            "Struggling Fulham sack manager Ranieri after 16 league games in charge",
+            "https://www.bbc.co.uk/sport/football/47401305"
+        ],
+        [
+            "Business Insider",
+            "Watch the 7 best Super Bowl commercials so far",
+            "https://www.businessinsider.com/super-bowl-commercials-cardi-b-jeff-bridges-sarah-jessica-parker-2019-1"
+        ],
+        [
+            "Espn.com",
+            "Facing relegation, Fulham fires manager Ranieri",
+            "http://www.espn.com/soccer/fulham/story/3786669/ranieri-leaves-fulham-with-club-10-points-from-safety-parker-takes-over"
+        ],
+        [
+            "The Guardian (AU)",
+            "Claudio Ranieri facing sack as Fulham manager after 16 Premier League games",
+            "https://www.theguardian.com/football/2019/feb/28/claudio-ranieri-sack-fulham-premier-league-scott-parker"
+        ],
+        [
+            "Polygon",
+            "The 7 most anticipated comics arriving this spring",
+            "https://www.polygon.com/comics/2019/2/25/18234788/new-comics-2019-marvel-dc"
+        ],
+        [
+            "USA Today",
+            "Premier League struggler Fulham fires manager Ranieri",
+            "https://www.usatoday.com/story/sports/soccer/2019/02/28/premier-league-struggler-fulham-fires-manager-ranieri/39129239/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Fastcompany.com",
+            "Here are the 30 celebrities that we know will appear in a Super Bowl LIII commercial",
+            "https://www.fastcompany.com/90300359/heres-every-celebrity-in-a-super-bowl-liii-commercial-so-far?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29"
+        ],
+        [
+            "Www.tsn.ca",
+            "TSN.ca NBA deadline blog - Raps landing Gasol in blockbuster - TSN",
+            "https://www.tsn.ca/tsn-ca-nba-deadline-blog-will-the-pels-finally-blink-1.1253716"
+        ],
+        [
+            "USA Today",
+            "Portis scores 30 in debut as Wizards beat Cavs 119-106",
+            "https://www.usatoday.com/story/sports/nba/2019/02/08/portis-scores-30-in-debut-as-wizards-beat-cavs-119-106/39030359/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+        ],
+        [
+            "Cnet.com",
+            "Super Bowl 2019 commercials so far: Tony Romo, Chance the Rapper and more - CNET",
+            "https://www.cnet.com/news/super-bowl-2019-commercials-so-far-tony-romo-chance-the-rapper-and-more/"
+        ],
+        [
+            "Sportsnet.ca",
+            "Pascal Siakam scores 44 as Raptors rally past Wizards - Sportsnet.ca",
+            "https://www.sportsnet.ca/basketball/nba/pascal-siakam-scores-44-raptors-rally-past-wizards/"
+        ],
+        [
+            "Ctvnews.ca",
+            "'Much, much slower:' Coroner promises change after Humboldt mix-up - CTV News",
+            "https://www.ctvnews.ca/canada/much-much-slower-coroner-promises-change-after-humboldt-mix-up-1.4311535"
+        ],
+        [
+            "The Telegraph",
+            "Claudio Ranieri sacked by Fulham, with Scott Parker appointed caretaker manager",
+            "https://www.telegraph.co.uk/football/2019/02/28/claudio-ranieri-sacked-fulham-scott-parker-appointed-caretaker/"
+        ],
+        [
+            "Avclub.com",
+            "On The Flash, Barry and Iris\u2019s future daughter has secrets in excess",
+            "https://tv.avclub.com/on-the-flash-barry-and-iris-s-future-daughter-has-secr-1832100816"
+        ],
+        [
+            "Elpais.com",
+            "La pol\u00e9mica racial que sacude a la Super Bowl 2019 explicada",
+            "https://elpais.com/elpais/2019/02/01/videos/1549028428_807052.html"
+        ],
+        [
+            "Highsnobiety.com",
+            "WTF Grammy Moments & Travis Scott x AJ1 Feature in This Week\u2019s Top Comments Roundup",
+            "https://www.highsnobiety.com/p/travis-scott-air-jordan-1-grammys-best-comments-roundup/"
+        ],
+        [
+            "As.com",
+            "El Fulham despide a Ranieri",
+            "https://as.com/futbol/2019/02/28/internacional/1551374205_042791.html"
+        ],
+        [
+            "Cnet.com",
+            "Super Bowl 2019 ads we've seen so far - CNET",
+            "https://www.cnet.com/news/super-bowl-2019-ads-released-so-far/"
+        ],
+        [
+            "The Guardian (AU)",
+            "Albert Finney: the most almighty physical screen presence | Peter Bradshaw",
+            "https://www.theguardian.com/film/2019/feb/08/albert-finney-an-almighty-physical-screen-presence"
+        ],
+        [
+            "Fool.com",
+            "OneMain Holdings, Inc. (OMF) Q4 2018 Earnings Conference Call Transcript",
+            "https://www.fool.com/investing/2019/02/12/onemain-holdings-inc-omf-q4-2018-earnings-conferen.aspx"
+        ]
+    ],
+    "JoBros": [
+        [
+            "People.com",
+            "'S.O.S.'! The Jonas Brothers Are Back and Their Reunion Style Is Better Than Ever",
+            "https://people.com/style/jonas-brothers-reunion-sucker-cover-style/"
+        ],
+        [
+            "Tvguide.com",
+            "Jonas Brothers Reunite for Late Late Show With James Corden Takeover",
+            "https://www.tvguide.com/news/jonas-brothers-james-corden-late-late-show-takeover/"
+        ],
+        [
+            "Dlisted.com",
+            "The Jonas Brothers May Be Reuniting For A New Tour",
+            "http://dlisted.com/2019/02/19/the-jonas-brothers-may-be-reuniting-for-a-new-tour/"
+        ],
+        [
+            "Teenvogue.com",
+            "The Jonas Brothers Recreated Their \"Oh How the Tables Have Turned\" Video Ahead of New Song \"Sucker\"",
+            "https://www.teenvogue.com/story/jonas-brothers-recreated-tables-have-turned-video-ahead-new-song-sucker"
+        ],
+        [
+            "Tribune.com.pk",
+            "This is an SOS: The Jonas Brothers are officially reuniting!",
+            "https://tribune.com.pk/story/1914723/4-sos-jonas-brothers-officially-reuniting/"
+        ],
+        [
+            "MTV News",
+            "This Is An Official \u2018S.O.S.\u2019: The Jonas Brothers Are Back After A 6-Year Hiatus",
+            "http://www.mtv.com/news/3115031/jonas-brothers-reunion-single/"
+        ],
+        [
+            "Justjared.com",
+            "Nina Dobrev Opens Up About Her 'Wild' 30th Birthday Party!",
+            "http://www.justjared.com/2019/02/05/nina-dobrev-opens-up-about-her-wild-30th-birthday-party/"
+        ],
+        [
+            "Justjared.com",
+            "The Jonas Brothers Are Doing a Week-Long Takeover of 'The Late Late Show' - Watch the Teaser!",
+            "http://www.justjared.com/2019/02/28/the-jonas-brothers-are-doing-a-week-long-takeover-of-the-late-late-show-watch-the-teaser/"
+        ],
+        [
+            "Teenvogue.com",
+            "The Jonas Brothers Are Reportedly Reuniting Under a New Band Name",
+            "https://www.teenvogue.com/story/jonas-brothers-reportedly-reuniting-new-name"
+        ],
+        [
+            "Observer.com",
+            "Priyanka Chopra and Nick Jonas Took Another Trip, but This Time They Made a Beer Tower",
+            "https://observer.com/2019/02/priyanka-chopra-nick-jonas-joe-jonas-sophie-turner-mammoth-lakes-vacation-super-bowl-trip/"
+        ],
+        [
+            "Hollywoodlife.com",
+            "Nick Jonas Sings Stunning Rendition Of Lady Gaga & Bradley Cooper\u2019s \u2018Shallow\u2019 & We\u2019re Swooning",
+            "https://hollywoodlife.com/2019/02/22/nick-jonas-covers-lady-gaga-bradley-cooper-shallow-watch-video/"
+        ],
+        [
+            "Usmagazine.com",
+            "This Is an S.O.S.! Jonas Brothers Plan Reunion Nearly 6 Years After Split",
+            "https://www.usmagazine.com/celebrity-news/news/jonas-brothers-planning-reunion-nearly-6-years-after-split/#article"
+        ],
+        [
+            "MTV News",
+            "10 Years Ago, The Jonas Brothers Were Peak Heartthrobs at Their First Grammys",
+            "http://www.mtv.com/news/3111849/jonas-brothers-2009-grammys/"
+        ],
+        [
+            "Nypost.com",
+            "Jonas Brothers reunite for new \u2018Sucker\u2019 single, \u2018Carpool Karaoke\u2019",
+            "https://nypost.com/2019/02/28/jonas-brothers-reunite-for-new-sucker-single-carpool-karaoke/"
+        ],
+        [
+            "Cosmopolitan.com",
+            "S.O.S. the Jonas Brothers Are Actually Reuniting and 2019 Is Looking Up",
+            "https://www.cosmopolitan.com/entertainment/a26406927/jonas-brothers-reunion-nick-joe-kevin-music/"
+        ],
+        [
+            "Observer.com",
+            "Priyanka Chopra and Nick Jonas Will Not Stop Celebrating Their Nuptials",
+            "https://observer.com/2019/01/priyanka-chopra-nick-jonas-wedding-celebration-reception-belmont-north-carolina/"
+        ],
+        [
+            "Towleroad.com",
+            "Liam Hemsworth, Miley Cyrus, Cardi B, a Jonas Brother Reuinion, and More: HOT LINKS",
+            "http://www.towleroad.com/2019/02/liam/"
+        ],
+        [
+            "Etcanada.com",
+            "The Jonas Brothers Reportedly Planning A Reunion And Fans Are Freaking Out",
+            "http://etcanada.com/news/420904/the-jonas-brothers-reportedly-planning-a-reunion-and-fans-are-freaking-out/"
+        ],
+        [
+            "Etcanada.com",
+            "The Jonas Brothers Are Back With New Single Out Friday Followed By Week Of Guest Spots On \u2018The Late Late Show\u2019",
+            "http://etcanada.com/news/420904/the-jonas-brothers-are-back-with-new-single-out-friday-followed-by-week-of-guest-spots-on-the-late-late-show/"
+        ],
+        [
+            "Entertainment Weekly",
+            "Jonas Brothers back with new single Sucker, Late Late Show takeover",
+            "https://ew.com/music/2019/02/28/the-jonas-brothers-new-single-the-late-late-show-takeover/"
+        ]
+    ],
+    "AryaStark": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Lanzan p\u00f3sters de la temporada final de \"Game of Thrones\"",
+            "https://www.eluniversal.com.mx/espectaculos/television/lanzan-posters-de-la-temporada-final-de-game-thrones"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "http://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "TyrionLannister": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Lanzan p\u00f3sters de la temporada final de \"Game of Thrones\"",
+            "https://www.eluniversal.com.mx/espectaculos/television/lanzan-posters-de-la-temporada-final-de-game-thrones"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "http://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "ValenciaBetisEnGol": [],
+    "SansaStark": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Lanzan p\u00f3sters de la temporada final de \"Game of Thrones\"",
+            "https://www.eluniversal.com.mx/espectaculos/television/lanzan-posters-de-la-temporada-final-de-game-thrones"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "http://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "NightKing": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Computerhoy.com",
+            "HBO publica nuevos carteles de la temporada 8 de Juego de Tronos",
+            "https://computerhoy.com/noticias/entretenimiento/hbo-publica-nuevos-carteles-temporada-8-juego-tronos-381795"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "http://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "TwittartirA\u00e7\u0131ld\u0131": [],
+    "HBDtoWONHO": [],
+    "WelcomeBackAbhinandan": [
+        [
+            "Firstpost.com",
+            "IAF pilot Abhinandan to be released, announces Imran Khan; #WelcomeBackAbhinandan trends on Twitter",
+            "https://www.firstpost.com/india/iaf-pilot-abhinandan-to-be-released-announces-imran-khan-welcomebackabhinandan-trends-on-twitter-6172061.html"
+        ],
+        [
+            "Firstpost.com",
+            "\u2018Titanic win for India, biggest diplomatic victory\u2019: Jingoism floods Twitter after Pakistan decides to release IAF pilot Abhinandan",
+            "https://www.firstpost.com/india/titanic-win-for-india-biggest-diplomatic-victory-jingoism-floods-twitter-after-pakistan-decides-to-release-iaf-pilot-abhinandan-6172551.html"
+        ],
+        [
+            "Ndtv.com",
+            "\"#AbhinandanMyHero\": Salutes To Air Force Pilot's Courage On Twitter",
+            "https://www.ndtv.com/india-news/abhinandan-varthaman-my-hero-salutes-to-air-force-pilots-courage-on-twitter-2000882"
+        ],
+        [
+            "The Times of India",
+            "Welcome Back, Abhinandan Varthaman! Bollywood Celebrates The Return Of IAF Pilot",
+            "https://www.indiatimes.com/entertainment/welcome-back-abhinandan-varthaman-bollywood-celebrates-the-return-of-iaf-pilot-362960.html"
+        ],
+        [
+            "Ndtv.com",
+            "\"Welcome Back, Abhinandan\": India Rejoices After Imran Khan Announcement",
+            "https://www.ndtv.com/india-news/welcome-back-abhinandan-india-rejoices-after-imran-khan-announcement-2000779"
+        ],
+        [
+            "Pinkvilla.com",
+            "Wing Commander Abhinandan to be released by Pakistan tomorrow; Bollywood welcomes PM Imran Khan\u2019s decision",
+            "https://www.pinkvilla.com/entertainment/news/wing-commander-abhinandan-be-released-pakistan-tomorrow-bollywood-welcomes-pm-imran-khan-s-decision-441775"
+        ]
+    ],
+    "FinalStrike": [],
+    "CerseiLannister": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Papelpop.com",
+            "O Trono de Ferro est\u00e1 disputad\u00edssimo em cartazes da \u00faltima temporada de \u201cGame of Thrones\u201d",
+            "https://www.papelpop.com/2019/02/o-trono-de-ferro-esta-disputadissimo-em-cartazes-da-ultima-temporada-de-game-of-thrones/"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Lanzan p\u00f3sters de la temporada final de \"Game of Thrones\"",
+            "https://www.eluniversal.com.mx/espectaculos/television/lanzan-posters-de-la-temporada-final-de-game-thrones"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "DLDay": [],
+    "EytninSe\u00e7imiOlacak": [],
+    "Son28\u015eubatOlsun": [],
+    "MiPersonajeDeSerie": [],
+    "28Feb": [
+        [
+            "Boardingarea.com",
+            "DEAL: Air India Business Rom \u2013 Sydney (Return): 2040 Euro",
+            "https://youhavebeenupgraded.boardingarea.com/2019/02/deal-air-india-business-rom-sydney-return-2040-euro/"
+        ],
+        [
+            "Boardingarea.com",
+            "Sri Lankan Business Deals Dubai \u2013 Asien",
+            "https://youhavebeenupgraded.boardingarea.com/2019/02/sri-lankan-business-deals-dubai-asien/"
+        ],
+        [
+            "Boardingarea.com",
+            "DEAL: British Airways Business \u00d6sterreich / Deutschland \u2013 Hong Kong (Return): 1450 Euro",
+            "https://youhavebeenupgraded.boardingarea.com/2019/02/deal-british-airways-business-osterreich-deutschland-hong-kong-return-1450-euro/"
+        ],
+        [
+            "Boardingarea.com",
+            "DEAL: Lufthansa Business Baltikum \u2013 Dubai (Return): 975 Euro",
+            "https://youhavebeenupgraded.boardingarea.com/2019/02/deal-lufthansa-business-baltikum-dubai-return-975-euro/"
+        ],
+        [
+            "Boardingarea.com",
+            "SALE: Egyptair Business Br\u00fcssel \u2013 Afrika / Asien (Return): 950 Euro",
+            "https://youhavebeenupgraded.boardingarea.com/2019/02/sale-egyptair-business-brussel-afrika-asien-return-950-euro/"
+        ],
+        [
+            "Boardingarea.com",
+            "SALE: Egyptair Business Amsterdam \u2013 Afrika / Asien (Return): 950 Euro",
+            "https://youhavebeenupgraded.boardingarea.com/2019/02/sale-egyptair-business-amsterdam-afrika-asien-return-950-euro/"
+        ],
+        [
+            "Reuters",
+            "\u7d4c\u6e08\u6307\u6a19\u4e88\u6e2c",
+            "https://jp.reuters.com/article/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E4%BA%88%E6%B8%AC-idJPL3N20N1GQ"
+        ],
+        [
+            "Sherdog.com",
+            "This Month\u2019s MMA Birthdays: Michael Bisping Turns 40",
+            "https://www.sherdog.com/news/articles/This-Months-MMA-Birthdays-Michael-Bisping-Turns-40-149143"
+        ],
+        [
+            "Reuters",
+            "\u7d4c\u6e08\u6307\u6a19\u4e88\u6e2c",
+            "https://jp.reuters.com/article/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E4%BA%88%E6%B8%AC-idJPL3N20K19N"
+        ],
+        [
+            "Reuters",
+            "\u7d4c\u6e08\u6307\u6a19\u4e88\u6e2c",
+            "https://jp.reuters.com/article/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E4%BA%88%E6%B8%AC-idJPL3N20G1I1"
+        ],
+        [
+            "Reuters",
+            "\u7d4c\u6e08\u6307\u6a19\u4e88\u6e2c",
+            "https://jp.reuters.com/article/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E4%BA%88%E6%B8%AC-idJPL3N20H1HE"
+        ],
+        [
+            "Reuters",
+            "\u7d4c\u6e08\u6307\u6a19\u4e88\u6e2c",
+            "https://jp.reuters.com/article/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E4%BA%88%E6%B8%AC-idJPL3N20M1DM"
+        ],
+        [
+            "Reuters",
+            "\u7d4c\u6e08\u6307\u6a19\u4e88\u6e2c",
+            "https://jp.reuters.com/article/%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E4%BA%88%E6%B8%AC-idJPL3N20L1CO"
+        ]
+    ],
+    "FelizJueves": [
+        [
+            "Sport.es",
+            "Las redes sociales celebran lo que ser\u00eda el 52 aniversario de Kurt Cobain",
+            "https://www.sport.es/es/noticias/fuera-de-juego/las-redes-sociales-celebran-que-seria-aniversario-kurt-cobain-7316495"
+        ],
+        [
+            "Excelsior.com.mx",
+            "\u00a1T\u00f3malo en cuenta! Implementan carril reversible en Chapultepec",
+            "https://www.excelsior.com.mx/comunidad/tomalo-en-cuenta-implementan-carril-reversible-en-chapultepec/1299090"
+        ],
+        [
+            "Finofilipino.org",
+            "La \u2018desesperaci\u00f3n\u2019 de la Guardia Civil porque nadie sabe circular por las rotondas",
+            "https://finofilipino.org/la-desesperacion-de-la-guardia-civil-porque-nadie-sabe-circular-por-las-rotondas/"
+        ],
+        [
+            "Infolibre.es",
+            "PSOE, Podemos e IU secundan la campa\u00f1a #YoNoVoy en respuesta a la manifestaci\u00f3n de PP, Cs y Vox",
+            "https://www.infolibre.es/noticias/politica/2019/02/07/psoe_podemos_secundan_campana_yonovoy_respuesta_manifestacion_y_vox_91653_1012.html"
+        ],
+        [
+            "20minutos.es",
+            "El karate espa\u00f1ol estalla por su exclusi\u00f3n de los Juegos de Par\u00eds 2024 por meter el breakdance",
+            "https://www.20minutos.es/deportes/noticia/karate-comunicado-juegos-olimpicos-paris-2024-breakdance-3570433/0/"
+        ],
+        [
+            "Huffingtonpost.es",
+            "La cantante Merche ya no es as\u00ed: su cambio de 'look' m\u00e1s radical",
+            "https://www.huffingtonpost.es/2019/02/15/la-cantante-merche-ya-no-es-asi-su-cambio-de-look-mas-radical_a_23670518/"
+        ],
+        [
+            "Rtve.es",
+            "PSOE, Podemos e IU se suman al #YoNoVoy frente a la manifestaci\u00f3n convocada contra S\u00e1nchez el domingo",
+            "http://www.rtve.es/noticias/20190207/psoe-podemos-iu-se-suman-yonovoy-frente-manifestacion-convocada-contra-sanchez-domingo/1880681.shtml"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Se esperan hasta 28 grados de temperatura en CDMX",
+            "https://www.eluniversal.com.mx/metropoli/cdmx/se-esperan-hasta-28-grados-de-temperatura-en-cdmx"
+        ],
+        [
+            "Elespanol.com",
+            "'Secretos de Estado', la serie que recomend\u00f3 Albert Rivera",
+            "https://www.elespanol.com/bluper/noticias/secretos-estado-serie-telecinco-recomienda-albert-rivera"
+        ],
+        [
+            "Elperiodico.com",
+            "#YoNoVoy, las redes sociales se encienden contra la manifestaci\u00f3n de Madrid",
+            "https://www.elperiodico.com/es/politica/20190207/redes-sociales-en-contra-manifestacion-pp-cs-vox-7291915"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Se esperan hasta 29 grados de temperatura en la CDMX",
+            "https://www.eluniversal.com.mx/metropoli/cdmx/se-esperan-hasta-29-grados-de-temperatura-en-la-cdmx"
+        ]
+    ],
+    "TrumpFail": [
+        [
+            "Someecards.com",
+            "Trump's disastrous Kim Jong Un summit has divided liberals on the internet.",
+            "https://www.someecards.com/news/news/donald-trump-kim-jong-un-north-korea-hanoi-summit-fail/"
+        ],
+        [
+            "The Hill",
+            "Harsh Trump critic Ted Lieu condemns \u2018inappropriate\u2019 #TrumpFail hashtag after North Korea summit",
+            "https://thehill.com/homenews/house/431979-harsh-trump-critic-ted-lieu-condemns-inappropriate-trumpfail-hashtag-after"
+        ],
+        [
+            "Teenvogue.com",
+            "Donald Trump's Talks With North Korea's Kim Jong Un Broke Down In What People Are Calling a #TrumpFail",
+            "https://www.teenvogue.com/story/donald-trump-north-korea-kim-jong-un-trumpfail-talks"
+        ],
+        [
+            "Celebitchy.com",
+            "Donald Trump failed yet again, won\u2019t sign a fake deal with Kim Jong Un",
+            "https://www.celebitchy.com/611909/donald_trump_failed_yet_again_wont_sign_a_fake_deal_with_kim_jong_un/"
+        ],
+        [
+            "Hotair.com",
+            "Trump made the right call to walk out of Hanoi, says \u2026 Susan Rice",
+            "https://hotair.com/archives/2019/02/28/trump-made-right-call-walk-hanoi-says-susan-rice/"
+        ],
+        [
+            "Haaretz.com",
+            "#TrumpFail trends on Twitter after North Korea summit falls apart",
+            "https://www.haaretz.com/us-news/trumpfail-trends-on-twitter-after-north-korea-summit-falls-apart-1.6980078"
+        ],
+        [
+            "Elitedaily.com",
+            "These Tweets About Donald Trump's Failure To Make A Deal With Kim Jong-un Are Roasting Him",
+            "https://www.elitedaily.com/p/these-tweets-about-donald-trumps-failure-to-make-a-deal-with-kim-jong-un-are-roasting-him-16102055"
+        ]
+    ],
+    "KKvLQ": [],
+    "JaimeLannister": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Dailygeekshow.com",
+            "Un \u00e9l\u00e9ment majeur de la saison 8 de Game of Thrones d\u00e9voil\u00e9\u2026 sur une photo de Jaime Lannister ?",
+            "https://dailygeekshow.com/game-of-thrones-armure-jaime-lannister/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Eluniversal.com.mx",
+            "Lanzan p\u00f3sters de la temporada final de \"Game of Thrones\"",
+            "https://www.eluniversal.com.mx/espectaculos/television/lanzan-posters-de-la-temporada-final-de-game-thrones"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ],
+    "RareDiseaseDay": [
+        [
+            "Lastampa.it",
+            "Malattie rare, quei pazienti incompresi che hanno bisogno della medicina, ma anche della societ\u00e0",
+            "https://www.lastampa.it/2019/02/28/scienza/malattie-rare-quei-pazienti-incompresi-che-hanno-bisogno-della-medicina-ma-anche-della-societ-rJK2MTyzZIIp8XvrRbVEBO/pagina.html"
+        ],
+        [
+            "R7.com",
+            "'Quero respostas', diz mulher com doen\u00e7a rara. S\u00e3o 13 milh\u00f5es no pa\u00eds",
+            "https://noticias.r7.com/saude/quero-respostas-diz-mulher-com-doenca-rara-sao-13-milhoes-no-pais-28022019"
+        ]
+    ],
+    "EskiSevgilim": [],
+    "WelcomeMarkTuanToThailand": [],
+    "cans\u0131zkim": [],
+    "\u0633\u0639\u0627\u062f\u062a\u0643_\u0627\u062e\u062a\u0635\u0631\u0647\u0627_\u0628\u0643\u0644\u0645\u062a\u064a\u0646": [],
+    "AdliMahkumDarbeMa\u011fduru": [],
+    "ThursdayThoughts": [
+        [
+            "Inc.com",
+            "Want To Get More Engagement On Social Media? Check Out How Hashtag Marketing Can Help",
+            "https://www.inc.com/bryan-adams/want-to-get-more-engagement-on-social-media-check-out-how-hashtag-marketing-can-help.html"
+        ]
+    ],
+    "AndrePrevin": [],
+    "\u0627\u0644\u0646\u0635\u0631_\u0627\u0644\u0634\u0628\u0627\u0628": [],
+    "BrienneOfTarth": [
+        [
+            "Time",
+            "The New Game of Thrones Emojis Are Perfect for Throwing Shade at Your Enemies",
+            "http://time.com/5541182/game-of-thrones-emojis/"
+        ],
+        [
+            "Cnet.com",
+            "Winter is coming to Twitter with new Game of Thrones character art and emojis - CNET",
+            "https://www.cnet.com/news/winter-is-coming-to-twitter-with-new-game-of-thrones-character-art-and-emojis/"
+        ],
+        [
+            "Fayerwayer.com",
+            "Twitter lanza entretenida herramienta para anticipar la \u00faltima temporada de Game of Thrones",
+            "https://www.fayerwayer.com/2019/02/twiiter-herramienta-got-game-of-thrones/"
+        ],
+        [
+            "Slashfilm.com",
+            "\u2018Game of Thrones\u2019 Takes the Black Leather in 20 New Character Posters for the Final Season",
+            "https://www.slashfilm.com/game-of-thrones-character-posters-final-season/"
+        ],
+        [
+            "Hypebeast.com",
+            "'Game of Thrones' Posters Reveal 20 Best Characters Worthy of The Iron Throne",
+            "https://hypebeast.com/2019/2/game-of-thrones-iron-throne-character-posters"
+        ],
+        [
+            "Forbes.com",
+            "For The Thrones: New Cast Art And Emojis For 'Game Of Thrones' Has Fans Aflame",
+            "https://www.forbes.com/sites/adriennegibbs/2019/02/28/for-the-thrones-new-cast-art-for-game-of-thrones-has-fans-aflame/"
+        ],
+        [
+            "Merca20.com",
+            "HBO lanza p\u00f3sters de la temporada final de The Game of Thrones",
+            "https://www.merca20.com/hbo-lanza-posters-de-la-temporada-final-de-the-game-of-thrones/"
+        ],
+        [
+            "IGN",
+            "Juego de Tronos: Los personajes de la temporada 8 en 20 p\u00f3steres",
+            "https://es.ign.com/juego-de-tronos/146278/news/juego-de-tronos-los-personajes-de-la-temporada-8-en-20-poste"
+        ],
+        [
+            "Codigogeek.com",
+            "Disponible los emojis de Twitter de los personajes de Game Of Thrones",
+            "https://www.codigogeek.com/2019/02/28/disponible-los-emojis-de-twitter-de-los-personajes-de-game-of-thrones/"
+        ],
+        [
+            "Dailycaller.com",
+            "\u2018Game Of Thrones\u2019 Shares Photos Of Several Characters Sitting On The Iron Throne",
+            "https://dailycaller.com/2019/02/28/hbo-game-of-thrones-iron-throne-twitter-photos/"
+        ],
+        [
+            "Mirror",
+            "Game of Thrones season 8: Twitter reveal new emojis and character images",
+            "https://www.mirror.co.uk/tv/tv-news/game-thrones-season-8-twitter-14067048"
+        ],
+        [
+            "Winteriscoming.net",
+            "Official character posters for Game of Thrones season 8!",
+            "https://winteriscoming.net/2019/02/28/hbo-releases-first-official-character-posters-game-thrones-season-8/"
+        ],
+        [
+            "Cnet.com",
+            "Los personajes de Game of Thrones ya tienen sus emojis en Twitter",
+            "https://www.cnet.com/es/noticias/personajes-game-of-thrones-emojis-twitter/"
+        ],
+        [
+            "Comicbook.com",
+            "'Game of Thrones' Reveals Final Season Character Emojis",
+            "https://comicbook.com/tv-shows/2019/02/28/game-of-thrones-season-8-character-emojis/"
+        ],
+        [
+            "Hindustantimes.com",
+            "Game of Thrones 8 poster: Night King sits on the Iron Throne and so does everybody else - Hindustan Times",
+            "https://www.hindustantimes.com/tv/game-of-thrones-8-poster-night-kings-sits-on-the-iron-throne-and-so-does-everybody-else/story-5xCzpv2p8zBSCo1jHmWt1N.html"
+        ],
+        [
+            "The Times of India",
+            "These Hilarious Game Of Thrones Memes Are Ruling The Internet & It\u2019s Hard Not To Laugh At Them!",
+            "https://www.indiatimes.com/entertainment/these-hilarious-game-of-thrones-memes-are-ruling-the-internet-it-s-hard-not-to-laugh-at-them-362872.html"
+        ],
+        [
+            "Adweek.com",
+            "Twitter and HBO Are Taking Over Billboards in 3 Cities to Close Out Game of Thrones",
+            "http://www.adweek.com/digital/twitter-and-hbo-are-taking-over-billboards-in-3-cities-to-close-out-game-of-thrones/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "https://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ],
+        [
+            "Thewrap.com",
+            "\u2018Game of Thrones\u2019 Final Season: HBO Reveals 20 New Character Photos \u2013 and 20 Custom Emojis",
+            "http://www.thewrap.com/game-of-thrones-character-posters-emojis-final-season-8-photos/"
+        ]
+    ]
+}
