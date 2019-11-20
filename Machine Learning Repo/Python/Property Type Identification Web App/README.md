@@ -1,6 +1,6 @@
 Data is Limited to Halifax.
 Below are some snaps of the App:
 
-![img0](https://github.com//parijatb2018//Machine-Learning//Machine%Learning%Repo//Python//Property%Type%Identification%Web%App//APP%Images//img0.JPG)
+![](https://github.com//parijatb2018//Machine-Learning//Machine%Learning%Repo//Python//Property%Type%Identification%Web%App//APP%Images//img0.JPG)
 
-![img1](https://github.com//parijatb2018//Machine-Learning//Machine%Learning%Repo//Python//Property%Type%Identification%Web%App//APP%Images//img1.JPG)
+![](https://github.com//parijatb2018//Machine-Learning//Machine%Learning%Repo//Python//Property%Type%Identification%Web%App//APP%Images//img1.JPG)
