@@ -4,3 +4,16 @@ API.txt File to be created to run the app. Own Google API key to be used.
 
 Below some Snaps of the APP:
 
+![Image of Yaktocat](/Machine%20Learning%20Repo/Python/ON%20House%20Price%20Prediction%20Web%20App/App%20Image/img1.jpg)
+input window
+
+
+![Image of Yaktocat](/Machine%20Learning%20Repo/Python/ON%20House%20Price%20Prediction%20Web%20App/App%20Image/img2.jpg)
+result window
+
+
+![Image of Yaktocat](/Machine%20Learning%20Repo/Python/ON%20House%20Price%20Prediction%20Web%20App/App%20Image/img3.jpg)
+additional result window
+
+
+
