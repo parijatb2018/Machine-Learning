@@ -1,4 +1,8 @@
-Data is Limited to Halifax.
-Below are some snaps of the App:
+Data is Limited to Halifax.<br>
+Below are some snaps of the App.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![input screen](/Machine%20Learning%20Repo/Python/Property%20Type%20Identification%20Web%20App/APP%20Images/img0.JPG)
+<p>input window</p><br>
+
+![result screen](/Machine%20Learning%20Repo/Python/Property%20Type%20Identification%20Web%20App/APP%20Images/img1.JPG)
+<br><p>result window</p>
