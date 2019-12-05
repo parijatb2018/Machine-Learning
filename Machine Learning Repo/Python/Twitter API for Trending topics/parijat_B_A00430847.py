@@ -12,10 +12,10 @@ import tweepy
 import json
 
 # Twitter API authentication
-consumer_key = 'yCOLjBn0P0RAWxVDOY4G3RzX9'
-consumer_secret = 'rwmPeDJ7Z9dYenvNpdY9Qzc82BMIts6ErE6QOaWJVGCOuciMhL'
-access_token = '114791180-Vw7mXFgDILtd7N23MGqgLQ1xDENeS7ItQxmyYT4F'
-access_token_secret = 'FmJNXMRIqSVgS2gjUXrxBrolaeEQUuhdxJb8XUAwA3qQ7'
+consumer_key = 'yCOLjBn-------DOY4G3RzX9'
+consumer_secret = 'rwmPeDJ7Z9--------6QOaWJVGCOuciMhL'
+access_token = '114791180-Vw7--------gLQ1xDENeS7ItQxmyYT4F'
+access_token_secret = 'FmJNXMR-----------aeEQUuhdxJb8XUAwA3qQ7'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -43,7 +43,7 @@ print('\n')
 from newsapi import NewsApiClient
 
 # News API authentication
-newsapi = NewsApiClient(api_key='b8cb59bf84dd43d3834f0095939bfb74')
+newsapi = NewsApiClient(api_key='b8cb5----------095939bfb74')
 
 
 nd={} # related news dictionary
