@@ -1,4 +1,4 @@
-I tried to create my own data from "Backstreet Boys" song lyrics and then build-LSTM model to experiment different types of text generation methods.
+I tried to create my own dataset from "Backstreet Boys" song lyrics and then build-LSTM model to experiment different types of text generation methods.
 
 Lyrics generation from "Backstreet Boys" song lyrics(13 songs):
 
