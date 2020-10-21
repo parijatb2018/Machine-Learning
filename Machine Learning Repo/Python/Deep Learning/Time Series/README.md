@@ -1,4 +1,4 @@
-I have published a two-parts-article on Time Series Analysis in medium.com and later also published the same on the analyticsvidhya.com on request.
+I have published a two-part-article on Time Series Analysis in medium.com and later also published the same on the analyticsvidhya.com on request.
 
 In this article I have created my own data from the latest Google and Spotify weekly stock prices to discuss time series-related terms and used Airline Passenger data from Kaggle to compare results of ARIMA( and SARIMA), Auto-ARIMA, and RNN(LSTM).
 
