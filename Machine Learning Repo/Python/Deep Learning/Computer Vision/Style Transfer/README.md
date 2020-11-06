@@ -1,4 +1,4 @@
-<h1>I have taken this problem from the UDACITY free course for PyTorch.<br>
+<h1>I have taken the code from the UDACITY free course for PyTorch.<br>
 Here I have played with the alpha/beta ratio to get more content to more pattern by increasing the beta from 1e01 to 1e12 and kept alpha=1.</h1>
 
 Link to the colab notebook:
